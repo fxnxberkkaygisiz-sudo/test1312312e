@@ -1,0 +1,159 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e5]:
+      - link "Midas" [ref=f2e9] [cursor=pointer]:
+        - /url: https://www.getmidas.com/
+      - navigation "Primary Navigation" [ref=f2e15]:
+        - list [ref=f2e17]:
+          - listitem [ref=f2e18]:
+            - link "Ürünler" [ref=f2e19] [cursor=pointer]:
+              - /url: "##"
+          - listitem [ref=f2e20]:
+            - link "Atlas" [ref=f2e21] [cursor=pointer]:
+              - /url: https://www.getmidas.com/atlas/
+          - listitem [ref=f2e22]:
+            - link "Ücretler" [ref=f2e23] [cursor=pointer]:
+              - /url: /ucretler/
+          - listitem [ref=f2e24]:
+            - link "Midas’ın Kulakları" [ref=f2e25] [cursor=pointer]:
+              - /url: /midas-kulaklari/
+          - listitem [ref=f2e26]:
+            - link "Canlı Borsa" [ref=f2e27] [cursor=pointer]:
+              - /url: /canli-borsa/
+          - listitem [ref=f2e28]:
+            - link "Destek" [ref=f2e29] [cursor=pointer]:
+              - /url: https://www.getmidas.com/destek/
+      - generic [ref=f2e31]:
+        - link "Giriş Yap" [ref=f2e33] [cursor=pointer]:
+          - /url: https://atlas.getmidas.com/login
+        - list [ref=f2e35]:
+          - listitem [ref=f2e36]:
+            - link "Kayıt Ol" [ref=f2e37] [cursor=pointer]:
+              - /url: /kayit-ol/
+  - main [ref=f2e38]:
+    - generic [ref=f2e41]:
+      - heading "Atlas. Web arayüzünde Midas standardı." [level=1] [ref=f2e42]
+      - generic [ref=f2e43]:
+        - paragraph [ref=f2e44]: Çoklu ekran, daha derin analiz, daha hızlı veri, daha güçlü işlem deneyimi.
+        - paragraph [ref=f2e45]: Profesyonel yatırımcılar için tasarlandı.
+      - link "Atlas'ı Kullanmaya Başla" [ref=f2e47] [cursor=pointer]:
+        - /url: https://atlas.getmidas.com/login
+    - generic [ref=f2e51]:
+      - heading "Her saniye önemli" [level=2] [ref=f2e52]
+      - paragraph [ref=f2e53]: Sekmeler arasında vakit kaybetme. Piyasa hareketlerini anlık takip et, canlı veriye ücretsiz ulaş, anında işlem yap.
+    - generic [ref=f2e56]:
+      - generic [ref=f2e57]:
+        - heading "Sana özel çalışma alanı" [level=2] [ref=f2e58]
+        - paragraph [ref=f2e61]: Analiz ve işlem modüllerini dilediğin gibi yerleştir, birbirine bağla, kendi Atlas’ını oluştur.
+      - generic [ref=f2e62]:
+        - heading "Gelişmiş analiz ve işlem bir arada" [level=2] [ref=f2e63]
+        - paragraph [ref=f2e66]: Tüm işlemlerini doğrudan grafik üzerinden gerçekleştir. Gelişmiş analiz araçlarını kullan, emrini ver, pozisyonunu takip et.
+    - generic [ref=f2e69]:
+      - heading "Her strateji için ayrı bir alan" [level=2] [ref=f2e70]
+      - paragraph [ref=f2e71]: Farklı piyasa ve stratejiler için ayrı çalışma alanları oluştur, ihtiyacına göre özelleştir.
+    - heading "4 milyondan fazla Midaslı gibi sen de Atlas'ı ücretsiz kullan." [level=2] [ref=f2e74]
+    - generic [ref=f2e77]:
+      - generic [ref=f2e80]:
+        - heading "Sıkça Sorulan Sorular" [level=2] [ref=f2e81]
+        - paragraph [ref=f2e82]: Aklına takılan tüm soruların cevabı burada
+      - generic [ref=f2e85]:
+        - generic [ref=f2e86]:
+          - generic [ref=f2e87] [cursor=pointer]: Atlas nedir?
+          - generic "Atlas nedir?" [ref=f2e89]:
+            - paragraph [ref=f2e91]: Atlas, Midas’ın geliştirdiği profesyonel web işlem platformudur. Hisse senedi ve türev ürünlerde gelişmiş grafik araçları, emir yönetimi ve portföy takibi sunar. Tarayıcı üzerinden çalışır, kurulum gerektirmez.
+        - generic [ref=f2e92]: Atlas ücretli mi?
+        - generic [ref=f2e95]: Atlas, Midas mobil uygulamasından farklı mı?
+        - generic [ref=f2e98]: Atlas'a nasıl erişebilirim?
+        - generic [ref=f2e101]: Atlas'ta hangi varlıklarda işlem yapabilirim?
+  - contentinfo [ref=f2e104]:
+    - generic [ref=f2e108]:
+      - link "Midas" [ref=f2e110] [cursor=pointer]:
+        - /url: https://www.getmidas.com/
+      - navigation "Footer Navigation" [ref=f2e115]:
+        - generic [ref=f2e117]:
+          - link "Hakkımızda" [ref=f2e118] [cursor=pointer]:
+            - /url: /hakkimizda/
+          - link "Destek Merkezi" [ref=f2e119] [cursor=pointer]:
+            - /url: /destek
+          - link "Midas'ın Kulakları" [ref=f2e120] [cursor=pointer]:
+            - /url: /midas-kulaklari/
+          - link "Midas Akademi" [ref=f2e121] [cursor=pointer]:
+            - /url: /midas-akademi
+          - link "Borsa Terimleri" [ref=f2e122] [cursor=pointer]:
+            - /url: /borsa-terimleri/
+          - link "Piyasalar" [ref=f2e123] [cursor=pointer]:
+            - /url: "##"
+          - link "Kripto" [ref=f2e124] [cursor=pointer]:
+            - /url: https://www.getmidas.com/midas-kripto/
+          - link "Ayrıcalıklar" [ref=f2e125] [cursor=pointer]:
+            - /url: /ayricaliklar/
+        - list [ref=f2e128]:
+          - link "Borsa İstanbul" [ref=f2e129] [cursor=pointer]:
+            - /url: /borsa-istanbul/
+          - link "ABD Borsaları" [ref=f2e130] [cursor=pointer]:
+            - /url: /abd-borsalari/
+          - link "Fon" [ref=f2e131] [cursor=pointer]:
+            - /url: /fon/
+          - link "Midas Kripto" [ref=f2e132] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Avrupa Borsaları" [ref=f2e133] [cursor=pointer]:
+            - /url: https://www.getmidas.com/avrupa-borsalari/
+          - link "VİOP" [ref=f2e134] [cursor=pointer]:
+            - /url: https://www.getmidas.com/viop/
+          - link "Atlas" [ref=f2e135] [cursor=pointer]:
+            - /url: https://www.getmidas.com/atlas/
+          - link "Sıfır Komisyon" [ref=f2e136] [cursor=pointer]:
+            - /url: /komisyonsuz-hisse-alim-satim
+          - link "Kredili Yatırım" [ref=f2e137] [cursor=pointer]:
+            - /url: https://www.getmidas.com/kredili-islem/
+          - link "Ücretler" [ref=f2e138] [cursor=pointer]:
+            - /url: /ucretler/
+          - link "Kariyer" [ref=f2e139] [cursor=pointer]:
+            - /url: https://jobs.lever.co/getmidas
+      - generic [ref=f2e140]:
+        - generic [ref=f2e141]:
+          - heading "Destek Hattı" [level=5]
+          - link [ref=f2e142] [cursor=pointer]:
+            - /url: tel:0850 241 22 41
+            - paragraph [ref=f2e143]: 0850 241 22 41
+        - generic [ref=f2e144]:
+          - heading "Adres" [level=5]
+          - paragraph [ref=f2e145]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+        - generic [ref=f2e146]:
+          - heading "E-mail" [level=5]
+          - link "destek@getmidas.com" [ref=f2e147] [cursor=pointer]:
+            - /url: mailto:destek@getmidas.com
+        - generic [ref=f2e149]:
+          - heading "Sosyal Medya" [level=5] [ref=f2e151]
+          - generic [ref=f2e153]:
+            - link [ref=f2e154] [cursor=pointer]:
+              - /url: https://www.instagram.com/midas/
+            - link [ref=f2e158] [cursor=pointer]:
+              - /url: https://twitter.com/getmidas
+            - link [ref=f2e161] [cursor=pointer]:
+              - /url: https://www.facebook.com/getmidas
+            - link [ref=f2e165] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/getmidas
+            - link [ref=f2e169] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+            - link [ref=f2e172] [cursor=pointer]:
+              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+      - generic [ref=f2e176]:
+        - paragraph
+        - paragraph [ref=f2e177]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+        - paragraph [ref=f2e178]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+        - paragraph [ref=f2e179]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+        - paragraph
+    - generic [ref=f2e183]:
+      - paragraph [ref=f2e186]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+      - generic [ref=f2e188]:
+        - link "Kişisel Verilerin Korunması" [ref=f2e189] [cursor=pointer]:
+          - /url: https://www.getmidas.com/kisisel-verilerin-korunmasi-kvkk/
+        - link "Gizlilik Politikası" [ref=f2e190] [cursor=pointer]:
+          - /url: https://www.getmidas.com/gizlilik-politikasi/
+        - link "Yasal Duyurular" [ref=f2e191] [cursor=pointer]:
+          - /url: https://www.getmidas.com/yasal-duyurular-ve-sozlesmeler/
+        - link "Çerez Ayarları" [ref=f2e192] [cursor=pointer]:
+          - /url: "#"
+  - link [ref=f2e194] [cursor=pointer]:
+    - /url: javascript:;

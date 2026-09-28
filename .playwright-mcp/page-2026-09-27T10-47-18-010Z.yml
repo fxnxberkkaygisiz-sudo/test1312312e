@@ -1,0 +1,204 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e5]:
+      - link "Midas" [ref=f1e9] [cursor=pointer]:
+        - /url: /
+      - navigation "Primary Navigation" [ref=f1e15]:
+        - list [ref=f1e17]:
+          - listitem [ref=f1e18]:
+            - link "Ürünler" [ref=f1e19] [cursor=pointer]:
+              - /url: "##"
+          - listitem [ref=f1e20]:
+            - link "Atlas" [ref=f1e21] [cursor=pointer]:
+              - /url: /atlas/
+          - listitem [ref=f1e22]:
+            - link "Ücretler" [ref=f1e23] [cursor=pointer]:
+              - /url: /ucretler/
+          - listitem [ref=f1e24]:
+            - link "Midas’ın Kulakları" [ref=f1e25] [cursor=pointer]:
+              - /url: /midas-kulaklari/
+          - listitem [ref=f1e26]:
+            - link "Canlı Borsa" [ref=f1e27] [cursor=pointer]:
+              - /url: /canli-borsa/
+          - listitem [ref=f1e28]:
+            - link "Destek" [ref=f1e29] [cursor=pointer]:
+              - /url: /destek/
+      - generic [ref=f1e31]:
+        - link "Giriş Yap" [ref=f1e33] [cursor=pointer]:
+          - /url: https://atlas.midasyatirim.com/login
+        - list [ref=f1e35]:
+          - listitem [ref=f1e36]:
+            - link "Kayıt Ol" [ref=f1e37] [cursor=pointer]:
+              - /url: /kayit-ol/
+  - main [ref=f1e38]:
+    - generic [ref=f1e43]:
+      - heading "Tüm yatırımlarını Midas ile yap!" [level=1] [ref=f1e45]
+      - paragraph [ref=f1e47]: Midas ile Amerikan borsalarından Avrupa borsalarına, Borsa İstanbul’dan kripto varlıklara, yatırım fonlarından altın sertifikasına ve türev ürünlere kadar birçok yatırım aracına tek uygulama üzerinden kolayca erişebilirsin.
+    - generic [ref=f1e52]:
+      - generic [ref=f1e54]:
+        - generic [ref=f1e55]:
+          - heading "Dakikalar içinde ilk hisseni al" [level=2] [ref=f1e57]
+          - generic [ref=f1e58]:
+            - paragraph
+            - paragraph [ref=f1e59]:
+              - text: Dakikalar içinde kaydol, dilediğin bankadan TL ya da dolar cinsinden
+              - strong [ref=f1e60]: masrafsız para aktar
+              - text: ", ilk hisseni al."
+            - paragraph
+        - img "Midas ekran" [ref=f1e63]
+      - generic [ref=f1e66]:
+        - heading "BIST, ABD ve Avrupa borsaları tek uygulamada" [level=2] [ref=f1e68]
+        - generic [ref=f1e69]:
+          - paragraph
+          - paragraph [ref=f1e70]: Midas yatırım hesabıyla Apple ve Google gibi ABD şirketlerine ya da Siemens ve BMW gibi Alman şirketlerine 1 dolar ve 1 euroyla bile ortak olabilir; THY, Turkcell ve BİM gibi Türk şirketlerine yatırım yapabilirsin.
+          - paragraph
+      - generic [ref=f1e75]:
+        - heading "Düşük komisyonla masrafsız işlem yap" [level=2] [ref=f1e77]
+        - generic [ref=f1e78]:
+          - paragraph
+          - paragraph [ref=f1e79]:
+            - text: Amerikan borsalarındaki işlemlerinde
+            - strong [ref=f1e80]: sadece 1,5 dolar
+            - text: işlem ücreti öde.
+          - paragraph [ref=f1e81]
+          - paragraph [ref=f1e82]:
+            - text: Borsa İstanbul’da işlemlerini sıfır komisyonla yap, hesap işletim ücreti, takas ve saklama ücreti gibi
+            - strong [ref=f1e83]: hiçbir masraf ödeme.
+          - paragraph
+      - generic [ref=f1e88]:
+        - heading "Yatırımlarını profesyonelce yönet" [level=2] [ref=f1e90]
+        - generic [ref=f1e91]:
+          - paragraph
+          - paragraph [ref=f1e92]: Hisse tarayıcısı ile şirketleri finansal rasyo, sektör, getiri oranı gibi kriterlere göre filtrele; teknik analiz grafikleri ve indikatörlerle işlem yap, hissenin neden düştüğünü veya yükseldiğini incele. Çünkü yapay zeka senin için özetledi bile.
+          - paragraph
+    - generic [ref=f1e101]:
+      - heading "Yatırım kararlarını nasıl alabilirsin?" [level=2] [ref=f1e103]
+      - generic [ref=f1e104]:
+        - paragraph
+        - paragraph [ref=f1e105]: İlgilendiğin şirketlere dair tüm güncel haberleri Midas’ın Kulakları’nda bulabilirsin.
+        - paragraph
+      - link "Keşfet" [ref=f1e107] [cursor=pointer]:
+        - /url: /midas-kulaklari/
+    - generic [ref=f1e109]:
+      - generic [ref=f1e112]:
+        - heading "Yatırımların Güvende" [level=2] [ref=f1e113]
+        - paragraph
+        - paragraph [ref=f1e114]: Hepimiz para kazanmak için çalışıyor, geleceğimizi güvence altına almak için birikim yapıyoruz. Bu yüzden Midas’taki yatırım hesabın Midas Menkul Değerler A.Ş. partnerliği ile güvence altında.
+        - paragraph
+      - generic [ref=f1e116]:
+        - generic [ref=f1e118]:
+          - heading "MKK Güvencesi" [level=3] [ref=f1e121]
+          - paragraph [ref=f1e123]: Midas ile Borsa İstanbul’da gerçekleştirdiğin yatırımlar 6362 sayılı Sermaye Piyasası Kanunu kapsamında Merkezi Kayıt Kuruluşu (MKK) güvencesinde saklanır.
+        - generic [ref=f1e125]:
+          - heading "SPK Lisansı" [level=3] [ref=f1e128]
+          - paragraph [ref=f1e130]: Midas, Sermaye Piyasası Kurulu (SPK) lisansına sahip, düzenli olarak denetlenen bir aracı kurumdur.
+        - generic [ref=f1e132]:
+          - heading "Hesap Güvencesi" [level=3] [ref=f1e135]
+          - paragraph [ref=f1e137]: Tüm hisseler namına yazılır. 150 milyon dolara (75 milyon varlık + 75 milyon nakit) kadar olan yatırımların, ABD'de devlet garantili bir sigorta şirketi olan SIPC tarafından güvence altındadır.
+        - generic [ref=f1e139]:
+          - heading "7/24 Destek" [level=3] [ref=f1e142]
+          - paragraph [ref=f1e144]: Tüm soru ve önerilerini 0850 241 22 41 no'lu Destek Hattından, Canlı Destekten ve sosyal medya kanallarımızdan 7/24 bize ulaştırabilirsin.
+    - generic [ref=f1e146]:
+      - generic [ref=f1e149]:
+        - heading "Sıkça Sorulan Sorular" [level=2] [ref=f1e150]
+        - paragraph [ref=f1e151]: Aklına Takılan Soruları Cevaplamak için Buradayız!
+      - generic [ref=f1e154]:
+        - generic [ref=f1e155]:
+          - heading "Midas Nedir?" [level=3] [ref=f1e157] [cursor=pointer]
+          - generic "Midas Nedir?" [ref=f1e158]:
+            - paragraph [ref=f1e160]: Midas, geleneksel bir aracı kurum olmanın ötesinde, yatırım dünyasını herkes için anlaşılır ve erişilebilir kılmayı amaçlayan bir yatırım uygulamasıdır. Hem yatırımlarını profesyonelce yöneten deneyimli yatırımcılar hem de finansal yolculuğuna yeni başlayanlar için pürüzsüz bir deneyim sunar. Midas ile Amerikan borsalarında hisse ve opsiyon, Borsa İstanbul’da hisse ve varant işlemleri yapabilir; TEFAS fonlarına kolayca yatırım yapabilirsin.
+        - heading "Midas'ı Güvenilir Kılan Yasal Sorumlulukları Neler?" [level=3] [ref=f1e163] [cursor=pointer]
+        - heading "Nasıl Hesap Açarım?" [level=3] [ref=f1e166] [cursor=pointer]
+        - heading "Midas Yatırım Hesabım ile Hangi Yatırımları Yapabilirim?" [level=3] [ref=f1e169] [cursor=pointer]
+        - heading "Yatırım için Neden Midas'ı Tercih Etmeliyim?" [level=3] [ref=f1e172] [cursor=pointer]
+        - heading "Midas Kimler için Uygun?" [level=3] [ref=f1e175] [cursor=pointer]
+        - heading "Midas'ın SPK ile İlişiği Nedir?" [level=3] [ref=f1e178] [cursor=pointer]
+      - link "Daha fazla bilgi için Destek Merkezimize ulaşabilirsin." [ref=f1e179] [cursor=pointer]:
+        - /url: /destek
+  - contentinfo [ref=f1e180]:
+    - generic [ref=f1e184]:
+      - link "Midas" [ref=f1e186] [cursor=pointer]:
+        - /url: /
+      - navigation "Footer Navigation" [ref=f1e191]:
+        - generic [ref=f1e193]:
+          - link "Hakkımızda" [ref=f1e194] [cursor=pointer]:
+            - /url: /hakkimizda/
+          - link "Destek Merkezi" [ref=f1e195] [cursor=pointer]:
+            - /url: /destek
+          - link "Midas'ın Kulakları" [ref=f1e196] [cursor=pointer]:
+            - /url: /midas-kulaklari/
+          - link "Midas Akademi" [ref=f1e197] [cursor=pointer]:
+            - /url: /midas-akademi
+          - link "Borsa Terimleri" [ref=f1e198] [cursor=pointer]:
+            - /url: /borsa-terimleri/
+          - link "Piyasalar" [ref=f1e199] [cursor=pointer]:
+            - /url: "##"
+          - link "Kripto" [ref=f1e200] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Ayrıcalıklar" [ref=f1e201] [cursor=pointer]:
+            - /url: /ayricaliklar/
+        - list [ref=f1e204]:
+          - link "Borsa İstanbul" [ref=f1e205] [cursor=pointer]:
+            - /url: /borsa-istanbul/
+          - link "ABD Borsaları" [ref=f1e206] [cursor=pointer]:
+            - /url: /abd-borsalari/
+          - link "Fon" [ref=f1e207] [cursor=pointer]:
+            - /url: /fon/
+          - link "Midas Kripto" [ref=f1e208] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Avrupa Borsaları" [ref=f1e209] [cursor=pointer]:
+            - /url: /avrupa-borsalari/
+          - link "VİOP" [ref=f1e210] [cursor=pointer]:
+            - /url: /viop/
+          - link "Atlas" [ref=f1e211] [cursor=pointer]:
+            - /url: /atlas/
+          - link "Sıfır Komisyon" [ref=f1e212] [cursor=pointer]:
+            - /url: /komisyonsuz-hisse-alim-satim
+          - link "Kredili Yatırım" [ref=f1e213] [cursor=pointer]:
+            - /url: /kredili-islem/
+          - link "Ücretler" [ref=f1e214] [cursor=pointer]:
+            - /url: /ucretler/
+          - link "Kariyer" [ref=f1e215] [cursor=pointer]:
+            - /url: https://jobs.lever.co/getmidas
+      - generic [ref=f1e216]:
+        - generic [ref=f1e217]:
+          - heading "Adres" [level=5]
+          - paragraph [ref=f1e218]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+        - generic [ref=f1e219]:
+          - heading "E-mail" [level=5]
+          - link "destek@midasyatirim.com" [ref=f1e220] [cursor=pointer]:
+            - /url: mailto:destek@midasyatirim.com
+        - generic [ref=f1e222]:
+          - heading "Sosyal Medya" [level=5] [ref=f1e224]
+          - generic [ref=f1e226]:
+            - link [ref=f1e227] [cursor=pointer]:
+              - /url: https://www.instagram.com/midas/
+            - link [ref=f1e231] [cursor=pointer]:
+              - /url: https://twitter.com/getmidas
+            - link [ref=f1e234] [cursor=pointer]:
+              - /url: https://www.facebook.com/getmidas
+            - link [ref=f1e238] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/getmidas
+            - link [ref=f1e242] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+            - link [ref=f1e245] [cursor=pointer]:
+              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+      - generic [ref=f1e249]:
+        - paragraph
+        - paragraph [ref=f1e250]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+        - paragraph [ref=f1e251]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+        - paragraph [ref=f1e252]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+        - paragraph
+    - generic [ref=f1e256]:
+      - paragraph [ref=f1e259]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+      - generic [ref=f1e261]:
+        - link "Kişisel Verilerin Korunması" [ref=f1e262] [cursor=pointer]:
+          - /url: /kisisel-verilerin-korunmasi-kvkk/
+        - link "Gizlilik Politikası" [ref=f1e263] [cursor=pointer]:
+          - /url: /gizlilik-politikasi/
+        - link "Yasal Duyurular" [ref=f1e264] [cursor=pointer]:
+          - /url: /yasal-duyurular-ve-sozlesmeler/
+        - link "Çerez Ayarları" [ref=f1e265] [cursor=pointer]:
+          - /url: "#"
+  - link [ref=f1e267] [cursor=pointer]:
+    - /url: javascript:;

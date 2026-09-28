@@ -1,0 +1,1 @@
+jQuery(document).ready((function(){const e=document.querySelectorAll("[data-src]");let r=new IntersectionObserver((function(e,r){e.forEach((e=>{if(e.isIntersecting){let t=e.target;t.src=t.dataset.src,r.unobserve(t)}}))}),{rootMargin:"0px",threshold:1});e.forEach((e=>{r.observe(e)}))}));

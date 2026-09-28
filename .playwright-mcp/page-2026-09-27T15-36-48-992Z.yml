@@ -1,0 +1,473 @@
+- generic [active] [ref=f5e1]:
+  - banner [ref=f5e2]:
+    - generic [ref=f5e5]:
+      - link "Midas" [ref=f5e9] [cursor=pointer]:
+        - /url: /
+      - navigation "Primary Navigation" [ref=f5e15]:
+        - list [ref=f5e17]:
+          - listitem [ref=f5e18]:
+            - link "Ürünler" [ref=f5e19] [cursor=pointer]:
+              - /url: "##"
+          - listitem [ref=f5e20]:
+            - link "Atlas" [ref=f5e21] [cursor=pointer]:
+              - /url: /atlas/
+          - listitem [ref=f5e22]:
+            - link "Ücretler" [ref=f5e23] [cursor=pointer]:
+              - /url: /ucretler/
+          - listitem [ref=f5e24]:
+            - link "Midas’ın Kulakları" [ref=f5e25] [cursor=pointer]:
+              - /url: /midas-kulaklari/
+          - listitem [ref=f5e26]:
+            - link "Canlı Borsa" [ref=f5e27] [cursor=pointer]:
+              - /url: /canli-borsa/
+          - listitem [ref=f5e28]:
+            - link "Destek" [ref=f5e29] [cursor=pointer]:
+              - /url: /destek/
+      - generic [ref=f5e31]:
+        - link "Giriş Yap" [ref=f5e33] [cursor=pointer]:
+          - /url: https://atlas.midasyatirim.com/login
+        - list [ref=f5e35]:
+          - listitem [ref=f5e36]:
+            - link "Kayıt Ol" [ref=f5e37] [cursor=pointer]:
+              - /url: /kayit-ol/
+  - generic [ref=f5e41]:
+    - heading "Altın Fiyatları" [level=1] [ref=f5e43]
+    - generic [ref=f5e48]:
+      - link "Anasayfa" [ref=f5e49] [cursor=pointer]:
+        - /url: /
+      - link "Altın Fiyatları" [ref=f5e53] [cursor=pointer]:
+        - /url: javascript:;
+    - generic [ref=f5e54]:
+      - generic [ref=f5e56]:
+        - generic [ref=f5e57]:
+          - paragraph [ref=f5e58]: Altın (Gram)
+          - generic [ref=f5e59]: 0.33%
+        - generic [ref=f5e60]:
+          - paragraph [ref=f5e61]:
+            - generic [ref=f5e62]: "ALIŞ:"
+            - text: 6.739,97
+          - paragraph [ref=f5e63]:
+            - generic [ref=f5e64]: "SATIŞ:"
+            - text: 6.740,80
+      - generic [ref=f5e66]:
+        - generic [ref=f5e67]:
+          - paragraph [ref=f5e68]: Çeyrek Altın
+          - generic [ref=f5e69]: 0.24%
+        - generic [ref=f5e70]:
+          - paragraph [ref=f5e71]:
+            - generic [ref=f5e72]: "ALIŞ:"
+            - text: 10.722,45
+          - paragraph [ref=f5e73]:
+            - generic [ref=f5e74]: "SATIŞ:"
+            - text: 10.967,28
+      - generic [ref=f5e76]:
+        - generic [ref=f5e77]:
+          - paragraph [ref=f5e78]: Yarım Altın
+          - generic [ref=f5e79]: 0.24%
+        - generic [ref=f5e80]:
+          - paragraph [ref=f5e81]:
+            - generic [ref=f5e82]: "ALIŞ:"
+            - text: 21.377,89
+          - paragraph [ref=f5e83]:
+            - generic [ref=f5e84]: "SATIŞ:"
+            - text: 21.934,56
+      - generic [ref=f5e86]:
+        - generic [ref=f5e87]:
+          - paragraph [ref=f5e88]: Tam Altın
+          - generic [ref=f5e89]: 0.56%
+        - generic [ref=f5e90]:
+          - paragraph [ref=f5e91]:
+            - generic [ref=f5e92]: "ALIŞ:"
+            - text: 42.729,00
+          - paragraph [ref=f5e93]:
+            - generic [ref=f5e94]: "SATIŞ:"
+            - text: 43.379,00
+      - generic [ref=f5e96]:
+        - generic [ref=f5e97]:
+          - paragraph [ref=f5e98]: Altın (Ons)
+          - generic [ref=f5e99]: 0.33%
+        - generic [ref=f5e100]:
+          - paragraph [ref=f5e101]:
+            - generic [ref=f5e102]: "ALIŞ:"
+            - text: 209.279,05
+          - paragraph [ref=f5e103]:
+            - generic [ref=f5e104]: "SATIŞ:"
+            - text: 210.019,66
+    - generic [ref=f5e106]:
+      - generic [ref=f5e107]:
+        - heading "Altın Fiyatı Hesaplama Aracı" [level=2] [ref=f5e109]
+        - paragraph [ref=f5e111]: 25 Eylül 2026 23:59
+      - generic [ref=f5e112]:
+        - generic [ref=f5e114]:
+          - button "ALIŞ" [ref=f5e115] [cursor=pointer]
+          - button "SATIŞ" [ref=f5e116] [cursor=pointer]
+        - generic [ref=f5e123]:
+          - generic [ref=f5e124]:
+            - combobox [ref=f5e125]:
+              - option "Altın (Gram)"
+              - option "Altın (Ons)"
+              - option "Cumhuriyet Altını"
+              - option "Çeyrek Altın"
+              - option "Yarım Altın"
+              - option "Ata Altın"
+              - option "Tam Altın"
+              - option "14 Ayar Bilezik Gramı"
+              - option "22 Ayar Bilezik Gramı"
+              - option "Altın Sertifikası"
+              - option "22 Ayar Gram Altın"
+              - option "18 Ayar Gram Altın"
+              - option "14 Ayar Gram Altın"
+              - option "Gramse Altın"
+              - option "Hamit Altın"
+              - option "Has Altın"
+              - option "Kapalı Çarşı Altın" [selected]
+              - option "Ziynet Altın"
+              - option "2.5'luk Altın"
+              - option "Reşat Altın"
+              - option "Beşli Altın"
+            - spinbutton [ref=f5e126]: "1"
+          - generic [ref=f5e127]:
+            - combobox [ref=f5e128]:
+              - option "TL" [selected]
+              - option "DOLAR"
+            - text: 6.739,97 TL
+    - table [ref=f5e130]:
+      - rowgroup [ref=f5e131]:
+        - row [ref=f5e132]:
+          - columnheader "Serbest Piyasada Altın" [ref=f5e133]
+          - columnheader "Alış" [ref=f5e134]
+          - columnheader "Satış" [ref=f5e135]
+          - columnheader "Değişim" [ref=f5e136]
+          - columnheader "Saat" [ref=f5e137]
+      - rowgroup [ref=f5e138]:
+        - row [ref=f5e139]:
+          - cell [ref=f5e140]:
+            - link "Altın (Gram)" [ref=f5e141] [cursor=pointer]:
+              - /url: /altin/gram-altin/
+          - cell "6.739,97" [ref=f5e145]
+          - cell "6.740,80" [ref=f5e146]
+          - cell "0,33%" [ref=f5e147]
+          - cell "23:59" [ref=f5e148]
+        - row [ref=f5e149]:
+          - cell [ref=f5e150]:
+            - link "Altın (Ons)" [ref=f5e151] [cursor=pointer]:
+              - /url: /altin/ons-altin/
+          - cell "209.279,05" [ref=f5e155]
+          - cell "210.019,66" [ref=f5e156]
+          - cell "0,33%" [ref=f5e157]
+          - cell "23:59" [ref=f5e158]
+        - row [ref=f5e159]:
+          - cell [ref=f5e160]:
+            - link "Cumhuriyet Altını" [ref=f5e161] [cursor=pointer]:
+              - /url: /altin/cumhuriyet-altini/
+          - cell "44.615,00" [ref=f5e165]
+          - cell "45.287,00" [ref=f5e166]
+          - cell "0,33%" [ref=f5e167]
+          - cell "12:10" [ref=f5e168]
+        - row [ref=f5e169]:
+          - cell [ref=f5e170]:
+            - link "Çeyrek Altın" [ref=f5e171] [cursor=pointer]:
+              - /url: /altin/ceyrek-altin/
+          - cell "10.722,45" [ref=f5e175]
+          - cell "10.967,28" [ref=f5e176]
+          - cell "0,24%" [ref=f5e177]
+          - cell "16:59" [ref=f5e178]
+        - row [ref=f5e179]:
+          - cell [ref=f5e180]:
+            - link "Yarım Altın" [ref=f5e181] [cursor=pointer]:
+              - /url: /altin/yarim-altin/
+          - cell "21.377,89" [ref=f5e185]
+          - cell "21.934,56" [ref=f5e186]
+          - cell "0,24%" [ref=f5e187]
+          - cell "16:59" [ref=f5e188]
+        - row [ref=f5e189]:
+          - cell [ref=f5e190]:
+            - link "Ata Altın" [ref=f5e191] [cursor=pointer]:
+              - /url: /altin/ata-altin/
+          - cell "44.230,12" [ref=f5e195]
+          - cell "45.344,83" [ref=f5e196]
+          - cell "0,24%" [ref=f5e197]
+          - cell "16:59" [ref=f5e198]
+        - row [ref=f5e199]:
+          - cell [ref=f5e200]:
+            - link "Tam Altın" [ref=f5e201] [cursor=pointer]:
+              - /url: /altin/tam-altin/
+          - cell "42.729,00" [ref=f5e205]
+          - cell "43.379,00" [ref=f5e206]
+          - cell "0,56%" [ref=f5e207]
+          - cell "23:55" [ref=f5e208]
+        - row [ref=f5e209]:
+          - cell [ref=f5e210]:
+            - link "14 Ayar Bilezik Gramı" [ref=f5e211] [cursor=pointer]:
+              - /url: /altin/14-ayar-bilezik-grami/
+          - cell "3.819,87" [ref=f5e215]
+          - cell "3.823,45" [ref=f5e216]
+          - cell "0,24%" [ref=f5e217]
+          - cell "16:59" [ref=f5e218]
+        - row [ref=f5e219]:
+          - cell [ref=f5e220]:
+            - link "22 Ayar Bilezik Gramı" [ref=f5e221] [cursor=pointer]:
+              - /url: /altin/22-ayar-bilezik-grami/
+          - cell "6.111,80" [ref=f5e225]
+          - cell "6.117,53" [ref=f5e226]
+          - cell "0,24%" [ref=f5e227]
+          - cell "16:59" [ref=f5e228]
+        - row [ref=f5e229]:
+          - cell [ref=f5e230]:
+            - link "Altın Sertifikası" [ref=f5e231] [cursor=pointer]:
+              - /url: /canli-borsa/altins1-hisse/
+          - cell "73,37" [ref=f5e235]
+          - cell "73,38" [ref=f5e236]
+          - cell "0,67%" [ref=f5e237]
+          - cell "18:10" [ref=f5e238]
+        - row [ref=f5e239]:
+          - cell [ref=f5e240]:
+            - link "22 Ayar Gram Altın" [ref=f5e241] [cursor=pointer]:
+              - /url: /altin/22-ayar-gram-altin/
+          - cell "6.111,80" [ref=f5e245]
+          - cell "6.117,53" [ref=f5e246]
+          - cell "0,24%" [ref=f5e247]
+          - cell "16:59" [ref=f5e248]
+        - row [ref=f5e249]:
+          - cell [ref=f5e250]:
+            - link "18 Ayar Gram Altın" [ref=f5e251] [cursor=pointer]:
+              - /url: /altin/18-ayar-gram-altin/
+          - cell "4.892,12" [ref=f5e255]
+          - cell "4.896,70" [ref=f5e256]
+          - cell "0,24%" [ref=f5e257]
+          - cell "16:59" [ref=f5e258]
+        - row [ref=f5e259]:
+          - cell [ref=f5e260]:
+            - link "14 Ayar Gram Altın" [ref=f5e261] [cursor=pointer]:
+              - /url: /altin/14-ayar-gram-altin/
+          - cell "3.819,87" [ref=f5e265]
+          - cell "3.823,45" [ref=f5e266]
+          - cell "0,24%" [ref=f5e267]
+          - cell "16:59" [ref=f5e268]
+        - row [ref=f5e269]:
+          - cell [ref=f5e270]:
+            - link "Gramse Altın" [ref=f5e271] [cursor=pointer]:
+              - /url: /altin/gramse-altin/
+          - cell "107.224,53" [ref=f5e275]
+          - cell "109.672,78" [ref=f5e276]
+          - cell "0,24%" [ref=f5e277]
+          - cell "16:59" [ref=f5e278]
+        - row [ref=f5e279]:
+          - cell [ref=f5e280]:
+            - link "Hamit Altın" [ref=f5e281] [cursor=pointer]:
+              - /url: /altin/hamit-altin/
+          - cell "42.889,81" [ref=f5e285]
+          - cell "43.734,95" [ref=f5e286]
+          - cell "0,24%" [ref=f5e287]
+          - cell "16:59" [ref=f5e288]
+        - row [ref=f5e289]:
+          - cell [ref=f5e290]:
+            - link "Has Altın" [ref=f5e291] [cursor=pointer]:
+              - /url: /altin/has-altin/
+          - cell "6.706,27" [ref=f5e295]
+          - cell "6.707,10" [ref=f5e296]
+          - cell "0,33%" [ref=f5e297]
+          - cell "23:59" [ref=f5e298]
+        - row [ref=f5e299]:
+          - cell [ref=f5e300]:
+            - link "Kapalı Çarşı Altın" [ref=f5e301] [cursor=pointer]:
+              - /url: /altin/kapali-carsi-altin/
+          - cell "6.739,97" [ref=f5e305]
+          - cell "6.740,80" [ref=f5e306]
+          - cell "0,33%" [ref=f5e307]
+          - cell "23:59" [ref=f5e308]
+        - row [ref=f5e309]:
+          - cell [ref=f5e310]:
+            - link "Ziynet Altın" [ref=f5e311] [cursor=pointer]:
+              - /url: /altin/ziynet-altin/
+          - cell "42.889,81" [ref=f5e315]
+          - cell "43.734,95" [ref=f5e316]
+          - cell "0,24%" [ref=f5e317]
+          - cell "16:59" [ref=f5e318]
+        - row [ref=f5e319]:
+          - cell [ref=f5e320]:
+            - link "Külçe Altın ($)" [ref=f5e321] [cursor=pointer]:
+              - /url: /altin/kulce-altin/
+          - cell "136.500,00" [ref=f5e325]
+          - cell "136.600,00" [ref=f5e326]
+          - cell "0,22%" [ref=f5e327]
+          - cell "17:01" [ref=f5e328]
+        - row [ref=f5e329]:
+          - cell [ref=f5e330]:
+            - link "2.5'luk Altın" [ref=f5e331] [cursor=pointer]:
+              - /url: /altin/2-5luk-altin/
+          - cell "107.224,53" [ref=f5e335]
+          - cell "108.934,92" [ref=f5e336]
+          - cell "0,24%" [ref=f5e337]
+          - cell "16:59" [ref=f5e338]
+        - row [ref=f5e339]:
+          - cell [ref=f5e340]:
+            - link "Reşat Altın" [ref=f5e341] [cursor=pointer]:
+              - /url: /altin/resat-altin/
+          - cell "42.889,81" [ref=f5e345]
+          - cell "43.734,95" [ref=f5e346]
+          - cell "0,24%" [ref=f5e347]
+          - cell "16:59" [ref=f5e348]
+        - row [ref=f5e349]:
+          - cell [ref=f5e350]:
+            - link "Beşli Altın" [ref=f5e351] [cursor=pointer]:
+              - /url: /altin/besli-altin/
+          - cell "217.129,67" [ref=f5e355]
+          - cell "221.357,90" [ref=f5e356]
+          - cell "0,24%" [ref=f5e357]
+          - cell "16:59" [ref=f5e358]
+    - generic [ref=f5e359]:
+      - generic [ref=f5e360]:
+        - heading "Altın Haberleri ve Yorumları" [level=2] [ref=f5e361]
+        - link "Tümünü Gör" [ref=f5e362] [cursor=pointer]:
+          - /url: /midas-kulaklari/borsa-ve-hisse-yorumlari/altin-yorumlari/
+      - generic [ref=f5e363]:
+        - link "Eylül 25, 2026 • 2 gün once Altın yıl sonunu nerede kapatır? post-card-thumbnail" [ref=f5e364] [cursor=pointer]:
+          - /url: /midasin-kulaklari/altin-yil-sonunu-nerede-kapatir-p-772698
+          - generic [ref=f5e365]:
+            - generic [ref=f5e366]:
+              - generic [ref=f5e367]: Eylül 25, 2026 • 2 gün once
+              - paragraph [ref=f5e368]: Altın yıl sonunu nerede kapatır?
+            - img "post-card-thumbnail" [ref=f5e370]
+        - link "Eylül 18, 2026 • 1 hafta once Venezuela'nın 4 milyar dolarlık altın rezervi Londra'dan New York Fed'e taşınabilir post-card-thumbnail" [ref=f5e371] [cursor=pointer]:
+          - /url: /midasin-kulaklari/venezuelanin-4-milyar-dolarlik-altin-rezervi-londradan-new-york-fede-tasinabilir-p-758801
+          - generic [ref=f5e372]:
+            - generic [ref=f5e373]:
+              - generic [ref=f5e374]: Eylül 18, 2026 • 1 hafta once
+              - paragraph [ref=f5e375]: Venezuela'nın 4 milyar dolarlık altın rezervi Londra'dan New York Fed'e taşınabilir
+            - img "post-card-thumbnail" [ref=f5e377]
+        - link "Eylül 17, 2026 • 1 hafta once Fed'in faiz artırımı sonrası ons altın 4.243 dolara geriledi post-card-thumbnail" [ref=f5e378] [cursor=pointer]:
+          - /url: /midasin-kulaklari/fedin-faiz-artirimi-sonrasi-ons-altin-4-243-dolara-geriledi-p-755763
+          - generic [ref=f5e379]:
+            - generic [ref=f5e380]:
+              - generic [ref=f5e381]: Eylül 17, 2026 • 1 hafta once
+              - paragraph [ref=f5e382]: Fed'in faiz artırımı sonrası ons altın 4.243 dolara geriledi
+            - img "post-card-thumbnail" [ref=f5e384]
+    - generic [ref=f5e385]:
+      - link "1 Gram Altın Fiyatı" [ref=f5e387] [cursor=pointer]:
+        - /url: /altin/1-gram-altin-ne-kadar/
+      - link "2 Gram Altın Fiyatı" [ref=f5e389] [cursor=pointer]:
+        - /url: /altin/2-gram-altin-ne-kadar/
+      - link "3 Gram Altın Fiyatı" [ref=f5e391] [cursor=pointer]:
+        - /url: /altin/3-gram-altin-ne-kadar/
+      - link "4 Gram Altın Fiyatı" [ref=f5e393] [cursor=pointer]:
+        - /url: /altin/4-gram-altin-ne-kadar/
+      - link "5 Gram Altın Fiyatı" [ref=f5e395] [cursor=pointer]:
+        - /url: /altin/5-gram-altin-ne-kadar/
+      - link "6 Gram Altın Fiyatı" [ref=f5e397] [cursor=pointer]:
+        - /url: /altin/6-gram-altin-ne-kadar/
+      - link "7 Gram Altın Fiyatı" [ref=f5e399] [cursor=pointer]:
+        - /url: /altin/7-gram-altin-ne-kadar/
+      - link "8 Gram Altın Fiyatı" [ref=f5e401] [cursor=pointer]:
+        - /url: /altin/8-gram-altin-ne-kadar/
+      - link "9 Gram Altın Fiyatı" [ref=f5e403] [cursor=pointer]:
+        - /url: /altin/9-gram-altin-ne-kadar/
+      - link "10 Gram Altın Fiyatı" [ref=f5e405] [cursor=pointer]:
+        - /url: /altin/10-gram-altin-ne-kadar/
+      - link "11 Gram Altın Fiyatı" [ref=f5e407] [cursor=pointer]:
+        - /url: /altin/11-gram-altin-ne-kadar/
+      - link "12 Gram Altın Fiyatı" [ref=f5e409] [cursor=pointer]:
+        - /url: /altin/12-gram-altin-ne-kadar/
+    - generic [ref=f5e412]:
+      - generic [ref=f5e413]:
+        - heading "Altın Yorumları" [level=2] [ref=f5e415] [cursor=pointer]
+        - generic "Altın Yorumları" [ref=f5e416]:
+          - generic [ref=f5e417]:
+            - text: Altın yorumları ve haberlerine
+            - link "buradan" [ref=f5e418] [cursor=pointer]:
+              - /url: /midas-kulaklari/borsa-ve-hisse-yorumlari/altin-yorumlari/
+            - text: Midas’ın Kulakları’nı ziyaret ederek ulaşabilir ve en güncel haberleri ve analist yorumlarını takip edebilirsin.
+      - heading "Midas Yatırım Hesabı İle Altına Nasıl Yatırım Yapılır?" [level=2] [ref=f5e421] [cursor=pointer]
+      - heading "Canlı Altın Kuru Hakkında" [level=2] [ref=f5e424] [cursor=pointer]
+      - heading "Altın Fiyatlarına Nereden Bakılır?" [level=2] [ref=f5e427] [cursor=pointer]
+      - heading "Altın Sertifikası (ALTIN.S1) ile Altına Yatırım" [level=2] [ref=f5e430] [cursor=pointer]
+      - heading "Altın Fonları ile Altına Yatırım" [level=2] [ref=f5e433] [cursor=pointer]
+      - heading "Altın Varantları ile Altın Fiyatlarına Yönelik Pozisyon Alma" [level=2] [ref=f5e436] [cursor=pointer]
+    - paragraph [ref=f5e438]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen, lisanslı Midas Menkul Değerler A.Ş. aracılığıyla sunulmaktadır. Bu sayfada yer alan fiyatlar yalnızca bilgi sunulması amacıyla hazırlanmış olup Midas Menkul Değerler A.Ş. tarafından Borsa İstanbul A.Ş. Pay Piyasası Emtia Pazarı’nda işlem gören, Darphane tarafından ihraç edilen Altın sertifikası (Altın.S1) haricinde altın alım satım hizmeti sunulmamaktadır. Serbest Piyasa Altın verileri en az 15 dakika gecikmeli verilerdir. Burada yer alan bilgi, yorum ve tavsiyeler yatırım danışmanlığı kapsamında değil sadece genel niteliktedir. Bu tavsiyeler mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi beklentilerinize uygun sonuçlar doğurmayabilir. Finansal veriler Foreks A.Ş. tarafından sağlanmaktadır. Midas, yayınlanan verilerin doğruluğu ve tamlığı konusunda herhangi bir garanti vermez. Hesaplamalarda kullanılan verilerin ve hesaplanan değişkenlerin doğruluğu garanti edilemez. Yapılacak filtremeler sonucu ulaşılacak sonuçlar herhangi bir yatırım aracının alım-satım önerisi ya da getiri vaadi olarak yorumlanmamalıdır. Bu sonuçlara dayanarak yatırım kararı verilmesi beklentilerinize uygun sonuçlar doğurmayabilir. Hesaplamalarda veya teknoloji farklılıkları nedeni ile ortaya çıkabilecek hatalardan, veri yayınında oluşabilecek aksaklıklardan, verinin eksik ve yanlış yayınlanmasından meydana gelebilecek herhangi bir zarardan Midas sorumlu değildir.
+  - contentinfo [ref=f5e439]:
+    - generic [ref=f5e443]:
+      - link "Midas" [ref=f5e445] [cursor=pointer]:
+        - /url: /
+      - navigation "Footer Navigation" [ref=f5e450]:
+        - generic [ref=f5e452]:
+          - link "Hakkımızda" [ref=f5e453] [cursor=pointer]:
+            - /url: /hakkimizda/
+          - link "Destek Merkezi" [ref=f5e454] [cursor=pointer]:
+            - /url: /destek
+          - link "Midas'ın Kulakları" [ref=f5e455] [cursor=pointer]:
+            - /url: /midas-kulaklari/
+          - link "Midas Akademi" [ref=f5e456] [cursor=pointer]:
+            - /url: /midas-akademi
+          - link "Borsa Terimleri" [ref=f5e457] [cursor=pointer]:
+            - /url: /borsa-terimleri/
+          - link "Piyasalar" [ref=f5e458] [cursor=pointer]:
+            - /url: "##"
+          - link "Kripto" [ref=f5e459] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Ayrıcalıklar" [ref=f5e460] [cursor=pointer]:
+            - /url: /ayricaliklar/
+        - list [ref=f5e463]:
+          - link "Borsa İstanbul" [ref=f5e464] [cursor=pointer]:
+            - /url: /borsa-istanbul/
+          - link "ABD Borsaları" [ref=f5e465] [cursor=pointer]:
+            - /url: /abd-borsalari/
+          - link "Fon" [ref=f5e466] [cursor=pointer]:
+            - /url: /fon/
+          - link "Midas Kripto" [ref=f5e467] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Avrupa Borsaları" [ref=f5e468] [cursor=pointer]:
+            - /url: /avrupa-borsalari/
+          - link "VİOP" [ref=f5e469] [cursor=pointer]:
+            - /url: /viop/
+          - link "Atlas" [ref=f5e470] [cursor=pointer]:
+            - /url: /atlas/
+          - link "Sıfır Komisyon" [ref=f5e471] [cursor=pointer]:
+            - /url: /komisyonsuz-hisse-alim-satim
+          - link "Kredili Yatırım" [ref=f5e472] [cursor=pointer]:
+            - /url: /kredili-islem/
+          - link "Ücretler" [ref=f5e473] [cursor=pointer]:
+            - /url: /ucretler/
+          - link "Kariyer" [ref=f5e474] [cursor=pointer]:
+            - /url: https://jobs.lever.co/getmidas
+      - generic [ref=f5e475]:
+        - generic [ref=f5e476]:
+          - heading "Adres" [level=5]
+          - paragraph [ref=f5e477]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+        - generic [ref=f5e478]:
+          - heading "E-mail" [level=5]
+          - link "destek@midasyatirim.com" [ref=f5e479] [cursor=pointer]:
+            - /url: mailto:destek@midasyatirim.com
+        - generic [ref=f5e481]:
+          - heading "Sosyal Medya" [level=5] [ref=f5e483]
+          - generic [ref=f5e485]:
+            - link [ref=f5e486] [cursor=pointer]:
+              - /url: https://www.instagram.com/midas/
+            - link [ref=f5e490] [cursor=pointer]:
+              - /url: https://twitter.com/getmidas
+            - link [ref=f5e493] [cursor=pointer]:
+              - /url: https://www.facebook.com/getmidas
+            - link [ref=f5e497] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/getmidas
+            - link [ref=f5e501] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+            - link [ref=f5e504] [cursor=pointer]:
+              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+      - generic [ref=f5e508]:
+        - paragraph
+        - paragraph [ref=f5e509]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+        - paragraph [ref=f5e510]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+        - paragraph [ref=f5e511]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+        - paragraph
+    - generic [ref=f5e515]:
+      - paragraph [ref=f5e518]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+      - generic [ref=f5e520]:
+        - link "Kişisel Verilerin Korunması" [ref=f5e521] [cursor=pointer]:
+          - /url: /kisisel-verilerin-korunmasi-kvkk/
+        - link "Gizlilik Politikası" [ref=f5e522] [cursor=pointer]:
+          - /url: /gizlilik-politikasi/
+        - link "Yasal Duyurular" [ref=f5e523] [cursor=pointer]:
+          - /url: /yasal-duyurular-ve-sozlesmeler/
+        - link "Çerez Ayarları" [ref=f5e524] [cursor=pointer]:
+          - /url: "#"
+  - link [ref=f5e526] [cursor=pointer]:
+    - /url: javascript:;

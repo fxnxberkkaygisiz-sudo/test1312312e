@@ -1,0 +1,181 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e7]:
+      - link "Midas" [ref=f1e9] [cursor=pointer]:
+        - /url: https://www.getmidas.com/
+      - list [ref=f1e15]:
+        - listitem [ref=f1e16]:
+          - link "Giriş Yap" [ref=f1e17] [cursor=pointer]:
+            - /url: https://atlas.getmidas.com/login
+        - listitem [ref=f1e18]:
+          - link "Kayıt Ol" [ref=f1e19] [cursor=pointer]:
+            - /url: /kayit-ol/
+      - list [ref=f1e21]:
+        - listitem [ref=f1e22]:
+          - button [ref=f1e23] [cursor=pointer]
+  - main [ref=f1e26]:
+    - generic [ref=f1e31]:
+      - heading "Tüm yatırımlarını Midas ile yap!" [level=1] [ref=f1e33]
+      - paragraph [ref=f1e35]: Midas ile Amerikan borsalarından Avrupa borsalarına, Borsa İstanbul’dan kripto varlıklara, yatırım fonlarından altın sertifikasına ve türev ürünlere kadar birçok yatırım aracına tek uygulama üzerinden kolayca erişebilirsin.
+    - generic [ref=f1e40]:
+      - generic [ref=f1e42]:
+        - generic [ref=f1e43]:
+          - heading "Dakikalar içinde ilk hisseni al" [level=2] [ref=f1e45]
+          - generic [ref=f1e46]:
+            - paragraph
+            - paragraph [ref=f1e47]:
+              - text: Dakikalar içinde kaydol, dilediğin bankadan TL ya da dolar cinsinden
+              - strong [ref=f1e48]: masrafsız para aktar
+              - text: ", ilk hisseni al."
+            - paragraph
+        - img "Midas ekran" [ref=f1e51]
+      - generic [ref=f1e54]:
+        - heading "BIST, ABD ve Avrupa borsaları tek uygulamada" [level=2] [ref=f1e56]
+        - generic [ref=f1e57]:
+          - paragraph
+          - paragraph [ref=f1e58]: Midas yatırım hesabıyla Apple ve Google gibi ABD şirketlerine ya da Siemens ve BMW gibi Alman şirketlerine 1 dolar ve 1 euroyla bile ortak olabilir; THY, Turkcell ve BİM gibi Türk şirketlerine yatırım yapabilirsin.
+          - paragraph
+      - generic [ref=f1e63]:
+        - heading "Düşük komisyonla masrafsız işlem yap" [level=2] [ref=f1e65]
+        - generic [ref=f1e66]:
+          - paragraph
+          - paragraph [ref=f1e67]:
+            - text: Amerikan borsalarındaki işlemlerinde
+            - strong [ref=f1e68]: sadece 1,5 dolar
+            - text: işlem ücreti öde.
+          - paragraph [ref=f1e69]
+          - paragraph [ref=f1e70]:
+            - text: Borsa İstanbul’da işlemlerini sıfır komisyonla yap, hesap işletim ücreti, takas ve saklama ücreti gibi
+            - strong [ref=f1e71]: hiçbir masraf ödeme.
+          - paragraph
+      - generic [ref=f1e76]:
+        - heading "Yatırımlarını profesyonelce yönet" [level=2] [ref=f1e78]
+        - generic [ref=f1e79]:
+          - paragraph
+          - paragraph [ref=f1e80]: Hisse tarayıcısı ile şirketleri finansal rasyo, sektör, getiri oranı gibi kriterlere göre filtrele; teknik analiz grafikleri ve indikatörlerle işlem yap, hissenin neden düştüğünü veya yükseldiğini incele. Çünkü yapay zeka senin için özetledi bile.
+          - paragraph
+    - generic [ref=f1e89]:
+      - heading "Yatırım kararlarını nasıl alabilirsin?" [level=2] [ref=f1e91]
+      - generic [ref=f1e92]:
+        - paragraph
+        - paragraph [ref=f1e93]: İlgilendiğin şirketlere dair tüm güncel haberleri Midas’ın Kulakları’nda bulabilirsin.
+        - paragraph
+      - link "Keşfet" [ref=f1e95] [cursor=pointer]:
+        - /url: https://www.getmidas.com/midas-kulaklari/
+    - generic [ref=f1e97]:
+      - generic [ref=f1e100]:
+        - heading "Yatırımların Güvende" [level=2] [ref=f1e101]
+        - paragraph
+        - paragraph [ref=f1e102]: Hepimiz para kazanmak için çalışıyor, geleceğimizi güvence altına almak için birikim yapıyoruz. Bu yüzden Midas’taki yatırım hesabın Midas Menkul Değerler A.Ş. partnerliği ile güvence altında.
+        - paragraph
+      - generic [ref=f1e104]:
+        - generic [ref=f1e106]:
+          - heading "MKK Güvencesi" [level=3] [ref=f1e109]
+          - paragraph [ref=f1e111]: Midas ile Borsa İstanbul’da gerçekleştirdiğin yatırımlar 6362 sayılı Sermaye Piyasası Kanunu kapsamında Merkezi Kayıt Kuruluşu (MKK) güvencesinde saklanır.
+        - generic [ref=f1e113]:
+          - heading "SPK Lisansı" [level=3] [ref=f1e116]
+          - paragraph [ref=f1e118]: Midas, Sermaye Piyasası Kurulu (SPK) lisansına sahip, düzenli olarak denetlenen bir aracı kurumdur.
+        - generic [ref=f1e120]:
+          - heading "Hesap Güvencesi" [level=3] [ref=f1e123]
+          - paragraph [ref=f1e125]: Tüm hisseler namına yazılır. 150 milyon dolara (75 milyon varlık + 75 milyon nakit) kadar olan yatırımların, ABD'de devlet garantili bir sigorta şirketi olan SIPC tarafından güvence altındadır.
+        - generic [ref=f1e127]:
+          - heading "7/24 Destek" [level=3] [ref=f1e130]
+          - paragraph [ref=f1e132]: Tüm soru ve önerilerini 0850 241 22 41 no'lu Destek Hattından, Canlı Destekten ve sosyal medya kanallarımızdan 7/24 bize ulaştırabilirsin.
+    - generic [ref=f1e134]:
+      - generic [ref=f1e137]:
+        - heading "Sıkça Sorulan Sorular" [level=2] [ref=f1e138]
+        - paragraph [ref=f1e139]: Aklına Takılan Soruları Cevaplamak için Buradayız!
+      - generic [ref=f1e142]:
+        - generic [ref=f1e143]:
+          - heading "Midas Nedir?" [level=3] [ref=f1e145] [cursor=pointer]
+          - generic "Midas Nedir?" [ref=f1e146]:
+            - paragraph [ref=f1e148]: Midas, geleneksel bir aracı kurum olmanın ötesinde, yatırım dünyasını herkes için anlaşılır ve erişilebilir kılmayı amaçlayan bir yatırım uygulamasıdır. Hem yatırımlarını profesyonelce yöneten deneyimli yatırımcılar hem de finansal yolculuğuna yeni başlayanlar için pürüzsüz bir deneyim sunar. Midas ile Amerikan borsalarında hisse ve opsiyon, Borsa İstanbul’da hisse ve varant işlemleri yapabilir; TEFAS fonlarına kolayca yatırım yapabilirsin.
+        - heading "Midas'ı Güvenilir Kılan Yasal Sorumlulukları Neler?" [level=3] [ref=f1e151] [cursor=pointer]
+        - heading "Nasıl Hesap Açarım?" [level=3] [ref=f1e154] [cursor=pointer]
+        - heading "Midas Yatırım Hesabım ile Hangi Yatırımları Yapabilirim?" [level=3] [ref=f1e157] [cursor=pointer]
+        - heading "Yatırım için Neden Midas'ı Tercih Etmeliyim?" [level=3] [ref=f1e160] [cursor=pointer]
+        - heading "Midas Kimler için Uygun?" [level=3] [ref=f1e163] [cursor=pointer]
+        - heading "Midas'ın SPK ile İlişiği Nedir?" [level=3] [ref=f1e166] [cursor=pointer]
+      - link "Daha fazla bilgi için Destek Merkezimize ulaşabilirsin." [ref=f1e167] [cursor=pointer]:
+        - /url: /destek
+    - generic [ref=f1e170]:
+      - paragraph [ref=f1e172]: Yatırıma Hemen Başlamak için
+      - heading "Uygulamayı Ücretsiz İndir" [level=2] [ref=f1e174]
+      - generic [ref=f1e175]:
+        - link "App Store 'dan indir" [ref=f1e176] [cursor=pointer]:
+          - /url: https://app.getmidas.com/gmih/?af_js_web=true&pid=mobile_web&af_pmod_attribution=false
+          - paragraph [ref=f1e182]:
+            - text: App Store
+            - generic [ref=f1e183]: "'dan indir"
+        - link "Google Play 'den indir" [ref=f1e184] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.getmidas.app
+          - paragraph [ref=f1e192]:
+            - text: Google Play
+            - generic [ref=f1e193]: "'den indir"
+  - contentinfo [ref=f1e195]:
+    - generic [ref=f1e199]:
+      - navigation "Footer Navigation" [ref=f1e200]:
+        - generic [ref=f1e202]:
+          - link "Hakkımızda" [ref=f1e204] [cursor=pointer]:
+            - /url: /hakkimizda/
+          - link "Destek Merkezi" [ref=f1e210] [cursor=pointer]:
+            - /url: /destek
+          - link "Midas'ın Kulakları" [ref=f1e212] [cursor=pointer]:
+            - /url: /midas-kulaklari/
+          - link "Midas Akademi" [ref=f1e218] [cursor=pointer]:
+            - /url: /midas-akademi
+          - link "Borsa Terimleri" [ref=f1e224] [cursor=pointer]:
+            - /url: /borsa-terimleri/
+          - link "Piyasalar" [ref=f1e230] [cursor=pointer]:
+            - /url: "##"
+          - link "Kripto" [ref=f1e236] [cursor=pointer]:
+            - /url: https://www.getmidas.com/midas-kripto/
+          - link "Ayrıcalıklar" [ref=f1e242] [cursor=pointer]:
+            - /url: /ayricaliklar/
+      - generic [ref=f1e243]:
+        - generic [ref=f1e244]:
+          - heading "Destek Hattı" [level=5]
+          - link [ref=f1e245] [cursor=pointer]:
+            - /url: tel:0850 241 22 41
+            - paragraph [ref=f1e246]: 0850 241 22 41
+        - generic [ref=f1e247]:
+          - heading "Adres" [level=5]
+          - paragraph [ref=f1e248]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+        - generic [ref=f1e249]:
+          - heading "E-mail" [level=5]
+          - link "destek@getmidas.com" [ref=f1e250] [cursor=pointer]:
+            - /url: mailto:destek@getmidas.com
+        - generic [ref=f1e252]:
+          - heading "Sosyal Medya" [level=5] [ref=f1e254]
+          - generic [ref=f1e256]:
+            - link [ref=f1e257] [cursor=pointer]:
+              - /url: https://www.instagram.com/midas/
+            - link [ref=f1e261] [cursor=pointer]:
+              - /url: https://twitter.com/getmidas
+            - link [ref=f1e264] [cursor=pointer]:
+              - /url: https://www.facebook.com/getmidas
+            - link [ref=f1e268] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/getmidas
+            - link [ref=f1e272] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+            - link [ref=f1e275] [cursor=pointer]:
+              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+      - generic [ref=f1e279]:
+        - paragraph
+        - paragraph [ref=f1e280]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+        - paragraph [ref=f1e281]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+        - paragraph [ref=f1e282]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+        - paragraph
+    - generic [ref=f1e286]:
+      - paragraph [ref=f1e289]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+      - generic [ref=f1e291]:
+        - link "Kişisel Verilerin Korunması" [ref=f1e292] [cursor=pointer]:
+          - /url: https://www.getmidas.com/kisisel-verilerin-korunmasi-kvkk/
+        - link "Gizlilik Politikası" [ref=f1e293] [cursor=pointer]:
+          - /url: https://www.getmidas.com/gizlilik-politikasi/
+        - link "Yasal Duyurular" [ref=f1e294] [cursor=pointer]:
+          - /url: https://www.getmidas.com/yasal-duyurular-ve-sozlesmeler/
+        - link "Çerez Ayarları" [ref=f1e295] [cursor=pointer]:
+          - /url: "#"
+  - link [ref=f1e297] [cursor=pointer]:
+    - /url: javascript:;

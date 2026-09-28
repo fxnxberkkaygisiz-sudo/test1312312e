@@ -1,0 +1,310 @@
+- generic [active] [ref=f6e1]:
+  - banner [ref=f6e2]:
+    - generic [ref=f6e5]:
+      - link "Midas" [ref=f6e9] [cursor=pointer]:
+        - /url: /
+      - navigation "Primary Navigation" [ref=f6e15]:
+        - list [ref=f6e17]:
+          - listitem [ref=f6e18]:
+            - link "Ürünler" [ref=f6e19] [cursor=pointer]:
+              - /url: "##"
+          - listitem [ref=f6e20]:
+            - link "Atlas" [ref=f6e21] [cursor=pointer]:
+              - /url: /atlas/
+          - listitem [ref=f6e22]:
+            - link "Ücretler" [ref=f6e23] [cursor=pointer]:
+              - /url: /ucretler/
+          - listitem [ref=f6e24]:
+            - link "Midas’ın Kulakları" [ref=f6e25] [cursor=pointer]:
+              - /url: /midas-kulaklari/
+          - listitem [ref=f6e26]:
+            - link "Canlı Borsa" [ref=f6e27] [cursor=pointer]:
+              - /url: /canli-borsa/
+          - listitem [ref=f6e28]:
+            - link "Destek" [ref=f6e29] [cursor=pointer]:
+              - /url: /destek/
+      - generic [ref=f6e31]:
+        - link "Giriş Yap" [ref=f6e33] [cursor=pointer]:
+          - /url: https://atlas.midasyatirim.com/login
+        - list [ref=f6e35]:
+          - listitem [ref=f6e36]:
+            - link "Kayıt Ol" [ref=f6e37] [cursor=pointer]:
+              - /url: /kayit-ol/
+  - main [ref=f6e38]:
+    - generic [ref=f6e40]:
+      - generic [ref=f6e45]:
+        - link "Anasayfa" [ref=f6e46] [cursor=pointer]:
+          - /url: /
+        - link "Midas Akademi" [ref=f6e50] [cursor=pointer]:
+          - /url: /midas-akademi
+        - link "Başlangıç Seviyesi" [ref=f6e54] [cursor=pointer]:
+          - /url: /midas-akademi/baslangic-seviyesi
+        - link "Borsa nedir? Çeşitleri nelerdir?" [ref=f6e58] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f6e59]:
+        - generic [ref=f6e61]:
+          - generic [ref=f6e63]:
+            - generic [ref=f6e64]:
+              - img "Borsa nedir? Çeşitleri nelerdir?" [ref=f6e65]
+              - generic [ref=f6e66]:
+                - link "Google Icon Google'da bizi tercih et" [ref=f6e67] [cursor=pointer]:
+                  - /url: https://www.google.com/preferences/source?q=midasyatirim.com
+                  - img "Google Icon" [ref=f6e68]
+                  - generic [ref=f6e69]: Google'da bizi tercih et
+                - link "Google News Icon Takip Et" [ref=f6e70] [cursor=pointer]:
+                  - /url: https://news.google.com/publications/CAAqJggKIiBDQklTRWdnTWFnNEtER2RsZEcxcFpHRnpMbU52YlNnQVAB?ceid=TR:tr&oc=3&hl=tr&gl=TR
+                  - img "Google News Icon" [ref=f6e71]
+                  - generic [ref=f6e72]: Takip Et
+            - generic [ref=f6e73]:
+              - heading "Borsa nedir? Çeşitleri nelerdir?" [level=1] [ref=f6e74]
+              - paragraph [ref=f6e76]:
+                - strong [ref=f6e77]: Yatırım yapacaksın ama bazı temel kavramlara yeterince hakim olmadığını düşünüyorsun. Borsa, OTC, NYSE, Nasdaq, BIST nedir, nasıl çalışır gibi soruların cevaplarına henüz hakim değilsin. Panik yok, hepsini tane tane anlatacağız. Dilersen hemen başlayalım.
+            - generic [ref=f6e78]:
+              - paragraph [ref=f6e80]: Başlangıç Seviyesi • Ders 1 • 9 dakika
+              - generic [ref=f6e81]:
+                - link [ref=f6e83] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "Twitter İkonu" [ref=f6e84]
+                - link [ref=f6e86] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "Linkedin İkonu" [ref=f6e87]
+                - link [ref=f6e89] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "Facebook İkonu" [ref=f6e90]
+          - generic [ref=f6e91]:
+            - generic [ref=f6e93]:
+              - generic [ref=f6e94]:
+                - generic [ref=f6e95]: İçerik
+                - generic [ref=f6e96]:
+                  - link "gizle":
+                    - /url: "#"
+              - generic [ref=f6e98]:
+                - link "1 💸 Borsa Nedir?" [ref=f6e100] [cursor=pointer]:
+                  - /url: "#Borsa_Nedir"
+                - link "2 NYSE (New York Stock Exchange – New York Menkul Kıymetler Borsası) nedir?" [ref=f6e102] [cursor=pointer]:
+                  - /url: "#NYSE_New_York_Stock_Exchange_-_New_York_Menkul_Kiymetler_Borsasi_nedir"
+                - link "3 Borsa İstanbul (BIST) Nedir?" [ref=f6e104] [cursor=pointer]:
+                  - /url: "#Borsa_Istanbul_BIST_Nedir"
+                - link "4 Nasdaq Nedir?" [ref=f6e106] [cursor=pointer]:
+                  - /url: "#Nasdaq_Nedir"
+                - link "5 OTC (Tezgâh üstü piyasa) Borsa Nedir?" [ref=f6e108] [cursor=pointer]:
+                  - /url: "#OTC_Tezgah_ustu_piyasa_Borsa_Nedir"
+                - link "6 Kripto Para Borsaları Nedir? Nasıl işler?" [ref=f6e110] [cursor=pointer]:
+                  - /url: "#Kripto_Para_Borsalari_Nedir_Nasil_isler"
+            - heading "💸 Borsa Nedir?" [level=2] [ref=f6e111]
+            - paragraph [ref=f6e113]: Kelime anlamıyla, hisse senedi ve borsa yatırım fonu gibi yatırım araçlarının alım-satım (takas) işlemlerinin, devletlerin denetleyici kurumlarının düzenlemeleri altında gerçekleştiği yerin genel adına borsa diyoruz. Yani kısaca, talep edilen hisse senedi ve borsa yatırım fonu gibi yatırım araçları için düzenlenmiş bir piyasa olduğunu söyleyebiliriz.
+            - paragraph [ref=f6e114]: Borsada yatırım yapabilmek için çok zengin veya uzman olmamıza gerek yok. İsteyen herkes Midas aracılığıyla dilediği tutarla Amerikan borsalarına ve Borsa İstanbul’da yatırım yapabilir.
+            - list [ref=f6e115]:
+              - listitem [ref=f6e116]:
+                - strong [ref=f6e118]: Nasıl bir pazar yerinde bulunan alıcı ve satıcılar, bir ürünü belirli bir fiyattan almak veya satmak istiyorlarsa, borsa da aynı mantıkla halka açık şirket hisselerinin, bireysel veya kurumsal yatırımcılar tarafından alınıp satıldıkları yerlerdir. Peki, borsada nelere yatırım yapabilirsin?
+            - paragraph [ref=f6e119]: Her borsanın farklı işleyiş yapısı ve kuralları vardır. Örneğin Amerikan borsalarının işleyişiyle Türk borsalarının işleyişi ve takvimleri birbirinden farklıdır.
+            - paragraph [ref=f6e120]:
+              - generic [ref=f6e121]:
+                - strong [ref=f6e122]: Diyelim ki hisse senedi satın almak istiyorsun.
+                - text: Bunun için ilgilendiğin şirketin hisse senedine sahip olan yatırımcılarla bağlantı kurman gerekiyor. İşte borsa sana ihtiyaç duyduğun bu güçlü organizasyonu sunar. Şirketler ise, potansiyel yatırımcılara ulaşmak için borsayı kullanır. Kendi hisselerini yatırımcılara satmak yani
+                - link "halka arz etmek" [ref=f6e123] [cursor=pointer]:
+                  - /url: /midas-akademi/halka-arz-nedir?utm_source=akademi&utm_medium=link&utm_campaign=akademi-halka-arz-nedir
+                - text: istediklerinde borsada listelenirler.
+            - paragraph [ref=f6e124]: Peki, neden yaparlar bunu? Gelecek yatırımları, operasyonları veya çıkaracakları yeni ürünleri için finansal kaynağa ihtiyaç duyabilirler. Bu nedenle borsada arz olup yatırımcılardan para toplarlar.
+            - list [ref=f6e125]:
+              - listitem [ref=f6e126]: ABD’de toplamda 11 farklı borsa bulunsa da 1 trilyon dolardan fazla büyüklüğe sahip olan borsalar New York Menkul Kıymetler Borsası (NYSE) ve Nasdaq borsalarıdır. ABD’deki bu 11 borsanın toplam piyasa değeri 53 trilyon dolardan fazladır.
+            - paragraph [ref=f6e127]:
+              - strong [ref=f6e128]: NYSE ve Nasdaq, ABD’nin ve dünyanın en büyük borsalarıdır.
+            - list [ref=f6e129]:
+              - listitem [ref=f6e130]: 2023 itibarıyla NYSE 22,64 trilyon dolar ve Nasdaq 24,54 trilyon dolarlık bir piyasa değerine sahiptir. İki borsaya piyasa değeri yönünden en yakın olan borsa, 6,9 trilyon dolarlık bir büyüklüğüyle Shanghai (Çin) borsasıdır.
+            - paragraph [ref=f6e131]:
+              - generic [ref=f6e132]:
+                - strong [ref=f6e133]: Borsa İstanbul (BIST) ise Türkiye’de faaliyet gösteren tek borsadır.
+                - text: Arçelik, BİM veya Türk Hava Yolları gibi halka arz olmuş Türk şirketleri BIST’te işlem görür.
+            - list [ref=f6e134]:
+              - listitem [ref=f6e135]: 2023 itibarıyla BIST’in toplam piyasa değeri 8,2 trilyon Türk Lirası’dır. Bünyesinde 23 sektörden toplam 472 şirket bulunur ve 4,4 milyon bireysel yatırımcıya sahiptir.
+            - paragraph [ref=f6e136]: Bunların yanında tezgâh üstü (OTC) ve kripto para borsaları da vardır. Farklı borsaların nasıl işlediğini anlamak, daha bilinçli yatırımlar yapmanı sağlayacaktır.
+            - paragraph [ref=f6e137]: Haydi, şimdi de bu saydığımız piyasa türlerine yakından bakalım.
+            - figure [ref=f6e139]:
+              - img "borsa nedir" [ref=f6e140]
+            - heading "NYSE (New York Stock Exchange – New York Menkul Kıymetler Borsası) nedir?" [level=2] [ref=f6e141]
+            - paragraph [ref=f6e143]: Dünyanın en büyük borsası olan NYSE içerisinde The Coca-Cola, Pfizer, Nike ve McDonald’s gibi dünyanın önde gelen endüstri devlerinin hisseleri yer almaktadır.
+            - paragraph [ref=f6e144]: NYSE, açık artırma tarzının öne çıktığı borsadır. Yani alıcılar ve satıcılar gerçek zamanlı bir ortamda, bir hisse senedini en iyi fiyattan satın alabilmek için açık artırma usulü rekabet ederler. Nasdaq’ın aksine yatırımcılar bir aracı olmadan direkt olarak birbirlerinden hisselerini alıp satabilirler.
+            - list [ref=f6e145]:
+              - listitem [ref=f6e146]: Nasdaq’ta ise arada aracılar olur. Yatırımcıların emirleri bu aracılara ulaşarak hisselerin alım-satımı gerçekleşir.
+            - paragraph [ref=f6e147]: Anlayacağın üzere NYSE, büyük oyuncuların aktif olarak rol aldığı bir platformdur. Aynı zamanda Amerika Birleşik Devletleri’nde yer alan en eski borsadır. 2007 yılında Avrupa borsası Euronext ile birleşerek “NYSE Euronext” adını alıp tek bir günde 5 milyardan fazla hisse alım- satımı gerçekleştirerek rekor kırmıştı.
+            - paragraph [ref=f6e148]:
+              - strong [ref=f6e149]: Peki, bir şirketin NYSE borsasında listelenebilmesi için hangi şartlara uyması gerekir?
+            - list [ref=f6e150]:
+              - listitem [ref=f6e151]: Piyasa değeri en az 100 milyon dolar olmalı
+              - listitem [ref=f6e152]: En az 1,1 milyon adet halka açık hissesi olmalı
+              - listitem [ref=f6e153]: En son üç mali senede, yılda en az 12 milyon dolarlık vergi öncesi gelir gösterebilmeli
+              - listitem [ref=f6e154]: Son 2 yıldaki kazancı en az 2 milyon dolar olmalıdır.
+            - paragraph [ref=f6e155]: Günümüzde hisse senedi opsiyonları, borsa yatırım fonu ve diğer birçok menkul değerler olmak üzere, özellikle bireysel yatırımcılara geniş bir yatırım olanağı sunar.
+            - heading "Borsa İstanbul (BIST) Nedir?" [level=2] [ref=f6e156]
+            - paragraph [ref=f6e158]: Borsa İstanbul ya da kısa adıyla BIST, Türkiye’de borsacılık faaliyetlerini gerçekleştirmek için 30 Aralık 2012 yılında kurulmuştur.
+            - paragraph [ref=f6e159]: Ancak bu adı almadan önce “İstanbul Menkul Kıymetler Borsası” veya “İMKB” adıyla Türkiye’nin sermaye piyasalarını daha aktif kılmak ve menkul kıymet alım-satım işlemlerini gerçekleştirmek amacıyla 1986 yılında faaliyetlerine başlamıştı.
+            - paragraph [ref=f6e160]: BIST, sermaye piyasasına ait hisse senedi ve borsa yatırım fonu gibi araçların, değerli madenlerin, kambiyoların ve Sermaye Piyasası Kurulu (SPK) tarafından uygun görülen sözleşmelerin borsa faaliyetlerini yürütür.
+            - list [ref=f6e161]:
+              - listitem [ref=f6e162]: Şu an BIST bünyesinde 436 şirket işlem görmektedir.
+              - listitem [ref=f6e163]: İmalat, bankacılık, bilişim, gayrimenkul, kimya, gıda ve ilaç BIST’in başlıca sektörleri arasındadır.
+            - paragraph [ref=f6e164]:
+              - strong [ref=f6e165]:
+                - emphasis [ref=f6e166]:
+                  - text: Ayrıca bakınız;
+                  - link "Canlı Borsa Takip Ekranı" [ref=f6e167] [cursor=pointer]:
+                    - /url: /canli-borsa/
+            - heading "Nasdaq Nedir?" [level=2] [ref=f6e168]
+            - paragraph [ref=f6e170]: Nasdaq, 1971 yılının şubat ayında kurulduğu zaman bünyesinde sadece 250 şirket barındıran, dünyanın ilk teknoloji borsasıydı. 1996 yılında borsanın ticaret hacminin günde 500 milyon hisseyi aşması, Nasdaq için kökten bir yükselişi başlatmış oldu. Bugün bünyesinde halka arz olmuş yaklaşık üç binden fazla şirketle devasa bir borsa haline gelen kurum, resmi olarak “Nasdaq OMX” adını taşıyor.
+            - list [ref=f6e171]:
+              - listitem [ref=f6e172]: Aylık 1,2 trilyon dolarlık işlem hacmine sahip borsanın piyasa değeri yaklaşık 24 trilyon dolardır.
+            - paragraph [ref=f6e173]: Nasdaq, NYSE gibi açık artırma tarzında çalışmaz. ‘Piyasa düzenleyicileri’ adında 600’den fazla menkul kıymet aracısıyla faaliyetlerini sürdürür. Bu piyasa düzenleyicileri, dünyanın herhangi bir yerinden Nasdaq’ta yatırım yapmak isteyen alıcı ve satıcıları birleştirerek Nasdaq’ın ağı üzerinden en iyi fiyatı alabilmek için birbirleri arasında rekabet ederler.
+            - paragraph [ref=f6e174]: Nasdaq aracıları, alıcı ve satıcılar arasındaki iletişimi her daim koruyarak, her iki tarafın da birbirleriyle takas yapabilmesini sağlar, hisse senedi alım-satımlarını kolaylaştırır. Tüm bunların yanı sıra Nasdaq tamamen dijital bir piyasadır. Yani menkul değerlerin alım-satımı NYSE ve BIST’te olduğu gibi bir borsa binasında değil, sadece telefon veya internet aracılığıyla gerçekleşir.
+            - heading "OTC (Tezgâh üstü piyasa) Borsa Nedir?" [level=2] [ref=f6e175]
+            - paragraph [ref=f6e177]: "OTC, İngilizceki kullanımıyla “Over the Counter”ın kısaltmasıdır ve borsa jargonunda sık sık karşımıza çıkar. Türkçede “tezgâh üstü piyasa” olarak geçer ve “borsa dışı piyasa” anlamına gelir. Aracı ya da şahıslarla gerçekleştirilen OTC işlemlerine borsa karışmaz. OTC piyasalarının özelliklerini şöyle sıralayabiliriz:"
+            - list [ref=f6e178]:
+              - listitem [ref=f6e179]: Fiziki alanı olmayan; internet, telefon gibi araçlarla haberleşerek yapılan işlemlerdir.
+              - listitem [ref=f6e180]: Borsaya oranla daha az kuralı olduğu için fiyatlar farklılık gösterebilir.
+              - listitem [ref=f6e181]: Alım- satım işlemlerinde pazarlık usulü ön plandadır.
+              - listitem [ref=f6e182]: Gizlilik oranı borsaya göre daha düşüktür.
+              - listitem [ref=f6e183]: Yatırımcılar sözleşmelerini kendileri yapmak zorundadır.
+              - listitem [ref=f6e184]: Risk oranı daha fazladır. Yüksek kâr getirebildiği gibi yüksek zarar da getirebilir.
+            - heading "Kripto Para Borsaları Nedir? Nasıl işler?" [level=2] [ref=f6e185]
+            - paragraph [ref=f6e187]: Bu borsalar, nakdi para veya kripto para birimiyle kripto para alım-satım işlemlerinin yapılabildiği platformlardır. Nakdi paralar bu kripto para siteleri aracılığıyla kripto paralara çevirebilir, mevcut kripto para varlıkları farklı bir kripto para birimine dönüştürülebilir.
+            - paragraph [ref=f6e188]: Bu sistem, çalışma şekli olarak yukarıda bahsettiğimiz bazı geleneksel borsalara benzese de SPK (Sermaye Piyasası Kurulu) veya SEC (Securities and Exchange Commission) gibi devlet kurumları tarafında faaliyetleri düzenlenmemiş ve devlet korumasında olmayan borsalardır.
+            - paragraph [ref=f6e189]: Bu tip borsaların gizliliği düşük, riski ise oldukça yüksektir. Hem ülkemizde hem de dünyada birçok dolandırıcılık ve “hack” vakasına konu olarak platformlarında yatırım yapan insanların mağdur olmalarına sebebiyet vermişlerdir.
+            - paragraph [ref=f6e190]: "Kripto para borsalarının ayırt edici genel özelliklerini şöyle sıralayabiliriz:"
+            - list [ref=f6e191]:
+              - listitem [ref=f6e192]: Nakdi para birimleriyle işlem yapılabilen borsalar olduğu gibi yalnızca kripto para birimleriyle işlem yapılabilen borsalar da vardır.
+              - listitem [ref=f6e193]: Kripto para alım-satım işlemleri yalnızca internet platformları üzerinden gerçekleştirilebilir.
+              - listitem [ref=f6e194]: Sahip olunan bir kripto para birimi, başka bir kripto para birimi ile takas edilebilir.
+            - paragraph [ref=f6e195]: Bu yazıda;
+            - list [ref=f6e196]:
+              - listitem [ref=f6e197]: Borsanın ne anlama geldiğini ve amacını
+              - listitem [ref=f6e198]: NYSE ve Nasdaq borsalarını ve işleyişlerini
+              - listitem [ref=f6e199]: Borsa İstanbul’u
+              - listitem [ref=f6e200]: OTC borsanın ne anlama geldiğini
+              - listitem [ref=f6e201]: Kripto para borsalarının nasıl işlediğini öğrendik.
+            - paragraph [ref=f6e202]: Bu içerik, içeriğin yayınlandığı günkü veriler baz alınarak hazırlanmıştır. İçerikte geçen hedef fiyat tahminleri, uzman ve analist yorumları bu içeriğin yayınlandığı tarihte geçerlidir. Bu tahmin ve yorumlar zaman içinde değişkenlik gösterebilmektedir. Bu sayfada yer alan haberler ve haberlerin içerdiği şirketler hakkındaki bilgiler yatırım danışmanlığı kapsamında değildir. Kullanılan hisse işlem görselleri; hisse adı, fiyatı ve grafikleri de dahil temsilidir, yatırım tavsiyesi değildir.
+            - paragraph [ref=f6e203]:
+              - text: "Detaylı bilgi için:"
+              - link "Midas Sorumluluk Beyanı" [ref=f6e204] [cursor=pointer]:
+                - /url: /midas-sorumluluk-beyani/
+            - paragraph [ref=f6e205]
+            - link [ref=f6e207] [cursor=pointer]:
+              - /url: /midas-akademi/abd-borsalarinda-nelere-yatirim-yapabilirim/
+              - generic [ref=f6e208]:
+                - img "ABD borsalarında nelere yatırım yapabilirim?" [ref=f6e209]
+                - generic [ref=f6e210]:
+                  - heading "Sonraki Ders" [level=5] [ref=f6e211]
+                  - heading "ABD borsalarında nelere yatırım yapabilirim?" [level=3] [ref=f6e212]
+        - generic [ref=f6e217]:
+          - generic [ref=f6e218]:
+            - heading "Başlangıç Seviyesi" [level=5] [ref=f6e224] [cursor=pointer]
+            - generic "Başlangıç Seviyesi" [ref=f6e229]:
+              - generic [ref=f6e230]:
+                - link "Emtia nedir? Nereden alınır?" [ref=f6e232] [cursor=pointer]:
+                  - /url: /midas-akademi/emtia-nedir/
+                - link "Borsa nedir? Çeşitleri nelerdir?" [ref=f6e234] [cursor=pointer]:
+                  - /url: /midas-akademi/borsa-nedir/
+                - link "ABD borsalarında nelere yatırım yapabilirim?" [ref=f6e236] [cursor=pointer]:
+                  - /url: /midas-akademi/abd-borsalarinda-nelere-yatirim-yapabilirim/
+                - link "Temettü nedir? Nasıl alınır ve hesaplanır?" [ref=f6e238] [cursor=pointer]:
+                  - /url: /midas-akademi/temettu-nedir/
+                - link "Parça hisse senedi nedir?" [ref=f6e240] [cursor=pointer]:
+                  - /url: /midas-akademi/parca-hisse-senedi-nedir/
+                - link "Hissedar nedir?" [ref=f6e242] [cursor=pointer]:
+                  - /url: /midas-akademi/hissedar-nedir/
+                - link "Brent petrol nedir? Nasıl alınır?" [ref=f6e244] [cursor=pointer]:
+                  - /url: /midas-akademi/brent-petrol-nedir/
+                - link "Metaverse nedir? Metaverse projelerine nasıl yatırım yapılır?" [ref=f6e246] [cursor=pointer]:
+                  - /url: /midas-akademi/metaverse-nedir/
+                - link "Hisse senedi borsası ve kripto para borsası arasındaki farklar nelerdir?" [ref=f6e248] [cursor=pointer]:
+                  - /url: /midas-akademi/hisse-senedi-borsasi-ve-kripto-para-borsasi-arasindaki-farklar-nelerdir/
+                - link "Hisse Senedi Nedir? Hisse Senedi Çeşitleri Nelerdir?" [ref=f6e250] [cursor=pointer]:
+                  - /url: /midas-akademi/hisse-senedi-nedir/
+          - heading "Orta Seviye" [level=5] [ref=f6e257] [cursor=pointer]
+          - heading "İleri Seviye" [level=5] [ref=f6e268] [cursor=pointer]
+          - heading "Kişisel Finans" [level=5] [ref=f6e279] [cursor=pointer]
+  - contentinfo [ref=f6e284]:
+    - generic [ref=f6e288]:
+      - link "Midas" [ref=f6e290] [cursor=pointer]:
+        - /url: /
+      - navigation "Footer Navigation" [ref=f6e295]:
+        - generic [ref=f6e297]:
+          - link "Hakkımızda" [ref=f6e298] [cursor=pointer]:
+            - /url: /hakkimizda/
+          - link "Destek Merkezi" [ref=f6e299] [cursor=pointer]:
+            - /url: /destek
+          - link "Midas'ın Kulakları" [ref=f6e300] [cursor=pointer]:
+            - /url: /midas-kulaklari/
+          - link "Midas Akademi" [ref=f6e301] [cursor=pointer]:
+            - /url: /midas-akademi
+          - link "Borsa Terimleri" [ref=f6e302] [cursor=pointer]:
+            - /url: /borsa-terimleri/
+          - link "Piyasalar" [ref=f6e303] [cursor=pointer]:
+            - /url: "##"
+          - link "Kripto" [ref=f6e304] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Ayrıcalıklar" [ref=f6e305] [cursor=pointer]:
+            - /url: /ayricaliklar/
+        - list [ref=f6e308]:
+          - link "Borsa İstanbul" [ref=f6e309] [cursor=pointer]:
+            - /url: /borsa-istanbul/
+          - link "ABD Borsaları" [ref=f6e310] [cursor=pointer]:
+            - /url: /abd-borsalari/
+          - link "Fon" [ref=f6e311] [cursor=pointer]:
+            - /url: /fon/
+          - link "Midas Kripto" [ref=f6e312] [cursor=pointer]:
+            - /url: /midas-kripto/
+          - link "Avrupa Borsaları" [ref=f6e313] [cursor=pointer]:
+            - /url: /avrupa-borsalari/
+          - link "VİOP" [ref=f6e314] [cursor=pointer]:
+            - /url: /viop/
+          - link "Atlas" [ref=f6e315] [cursor=pointer]:
+            - /url: /atlas/
+          - link "Sıfır Komisyon" [ref=f6e316] [cursor=pointer]:
+            - /url: /komisyonsuz-hisse-alim-satim
+          - link "Kredili Yatırım" [ref=f6e317] [cursor=pointer]:
+            - /url: /kredili-islem/
+          - link "Ücretler" [ref=f6e318] [cursor=pointer]:
+            - /url: /ucretler/
+          - link "Kariyer" [ref=f6e319] [cursor=pointer]:
+            - /url: https://jobs.lever.co/getmidas
+      - generic [ref=f6e320]:
+        - generic [ref=f6e321]:
+          - heading "Adres" [level=5]
+          - paragraph [ref=f6e322]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+        - generic [ref=f6e323]:
+          - heading "E-mail" [level=5]
+          - link "destek@midasyatirim.com" [ref=f6e324] [cursor=pointer]:
+            - /url: mailto:destek@midasyatirim.com
+        - generic [ref=f6e326]:
+          - heading "Sosyal Medya" [level=5] [ref=f6e328]
+          - generic [ref=f6e330]:
+            - link [ref=f6e331] [cursor=pointer]:
+              - /url: https://www.instagram.com/midas/
+            - link [ref=f6e335] [cursor=pointer]:
+              - /url: https://twitter.com/getmidas
+            - link [ref=f6e338] [cursor=pointer]:
+              - /url: https://www.facebook.com/getmidas
+            - link [ref=f6e342] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/getmidas
+            - link [ref=f6e346] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+            - link [ref=f6e349] [cursor=pointer]:
+              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+      - generic [ref=f6e353]:
+        - paragraph
+        - paragraph [ref=f6e354]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+        - paragraph [ref=f6e355]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+        - paragraph [ref=f6e356]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+        - paragraph
+    - generic [ref=f6e360]:
+      - paragraph [ref=f6e363]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+      - generic [ref=f6e365]:
+        - link "Kişisel Verilerin Korunması" [ref=f6e366] [cursor=pointer]:
+          - /url: /kisisel-verilerin-korunmasi-kvkk/
+        - link "Gizlilik Politikası" [ref=f6e367] [cursor=pointer]:
+          - /url: /gizlilik-politikasi/
+        - link "Yasal Duyurular" [ref=f6e368] [cursor=pointer]:
+          - /url: /yasal-duyurular-ve-sozlesmeler/
+        - link "Çerez Ayarları" [ref=f6e369] [cursor=pointer]:
+          - /url: "#"
+  - link [ref=f6e371] [cursor=pointer]:
+    - /url: javascript:;

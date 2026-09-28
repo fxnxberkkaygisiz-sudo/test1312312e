@@ -1,0 +1,14 @@
+[     288ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8791/wp-includes/js/wp-emoji-release.min.js?ver=7.0.2:0
+[    3402ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2026/02/11212802/midas-ana-sayfa-hero.png:0
+[    3405ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2026/02/13134606/midas-ilk-hisseni-al.jpg:0
+[    3405ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2026/02/18170150/midas-pro-logo.png:0
+[    3405ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2025/11/24172801/yatirim-kararlari-frame.png:0
+[    3405ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2026/06/29201637/tek-uyugulama.png:0
+[    3405ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2026/02/13134852/dusuk-komisyon-masrafsiz-islem.jpg:0
+[   18161ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2024/04/18004905/hesap-g-1-1.svg:0
+[   18162ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2024/04/18004900/spk-1-1.svg:0
+[   18162ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2024/04/18004911/destek-1-1.svg:0
+[   18163ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2024/04/18004848/takasbank-2-1.svg:0
+[   18177ms] [ERROR] Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST')) @ http://127.0.0.1:8791/cdn-cgi/rum?:0
+[   36729ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2025/06/17140952/Favicon.png:0
+[   51485ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://webcdn.midasyatirim.com/uploads/2025/06/17140952/Favicon.png:0
