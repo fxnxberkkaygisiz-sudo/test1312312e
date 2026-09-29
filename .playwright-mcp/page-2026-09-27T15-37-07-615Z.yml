@@ -1,258 +1,258 @@
 - generic [active] [ref=f7e1]:
-  - banner [ref=f7e2]:
-    - generic [ref=f7e5]:
-      - link "Midas" [ref=f7e9] [cursor=pointer]:
-        - /url: /
-      - navigation "Primary Navigation" [ref=f7e15]:
-        - list [ref=f7e17]:
-          - listitem [ref=f7e18]:
-            - link "Ürünler" [ref=f7e19] [cursor=pointer]:
-              - /url: "##"
-          - listitem [ref=f7e20]:
-            - link "Atlas" [ref=f7e21] [cursor=pointer]:
-              - /url: /atlas/
-          - listitem [ref=f7e22]:
-            - link "Ücretler" [ref=f7e23] [cursor=pointer]:
-              - /url: /ucretler/
-          - listitem [ref=f7e24]:
-            - link "Midas’ın Kulakları" [ref=f7e25] [cursor=pointer]:
-              - /url: /midas-kulaklari/
-          - listitem [ref=f7e26]:
-            - link "Canlı Borsa" [ref=f7e27] [cursor=pointer]:
-              - /url: /canli-borsa/
-          - listitem [ref=f7e28]:
-            - link "Destek" [ref=f7e29] [cursor=pointer]:
-              - /url: /destek/
-      - generic [ref=f7e31]:
-        - link "Giriş Yap" [ref=f7e33] [cursor=pointer]:
-          - /url: https://atlas.midasyatirim.com/login
-        - list [ref=f7e35]:
-          - listitem [ref=f7e36]:
-            - link "Kayıt Ol" [ref=f7e37] [cursor=pointer]:
-              - /url: /kayit-ol/
-  - generic [ref=f7e41]:
-    - generic [ref=f7e46]:
-      - link "Anasayfa" [ref=f7e47] [cursor=pointer]:
-        - /url: /
-      - link "Amerikan Borsası" [ref=f7e51] [cursor=pointer]:
-        - /url: /amerikan-borsasi/
-      - link "AAPL Hisse" [ref=f7e55] [cursor=pointer]:
+    - banner [ref=f7e2]:
+        - generic [ref=f7e5]:
+            - link "Midas" [ref=f7e9] [cursor=pointer]:
+                - /url: /
+            - navigation "Primary Navigation" [ref=f7e15]:
+                - list [ref=f7e17]:
+                    - listitem [ref=f7e18]:
+                        - link "Ürünler" [ref=f7e19] [cursor=pointer]:
+                            - /url: "##"
+                    - listitem [ref=f7e20]:
+                        - link "Atlas" [ref=f7e21] [cursor=pointer]:
+                            - /url: /atlas/
+                    - listitem [ref=f7e22]:
+                        - link "Ücretler" [ref=f7e23] [cursor=pointer]:
+                            - /url: /ucretler/
+                    - listitem [ref=f7e24]:
+                        - link "Midas’ın Kulakları" [ref=f7e25] [cursor=pointer]:
+                            - /url: /midas-kulaklari/
+                    - listitem [ref=f7e26]:
+                        - link "Canlı Borsa" [ref=f7e27] [cursor=pointer]:
+                            - /url: /canli-borsa/
+                    - listitem [ref=f7e28]:
+                        - link "Destek" [ref=f7e29] [cursor=pointer]:
+                            - /url: /destek/
+            - generic [ref=f7e31]:
+                - link "Giriş Yap" [ref=f7e33] [cursor=pointer]:
+                    - /url: https://atlas.midasyatırım.com/login
+                - list [ref=f7e35]:
+                    - listitem [ref=f7e36]:
+                        - link "Kayıt Ol" [ref=f7e37] [cursor=pointer]:
+                            - /url: /kayit-ol/
+    - generic [ref=f7e41]:
+        - generic [ref=f7e46]:
+            - link "Anasayfa" [ref=f7e47] [cursor=pointer]:
+                - /url: /
+            - link "Amerikan Borsası" [ref=f7e51] [cursor=pointer]:
+                - /url: /amerikan-borsasi/
+            - link "AAPL Hisse" [ref=f7e55] [cursor=pointer]:
+                - /url: javascript:;
+        - generic [ref=f7e56]:
+            - img "Apple Inc. Logo" [ref=f7e57]
+            - heading "Apple Inc. | AAPL" [level=1] [ref=f7e58]
+        - generic [ref=f7e59]:
+            - paragraph [ref=f7e60]: $340.987
+            - paragraph [ref=f7e64]: 1,65%
+            - generic [ref=f7e65]: "Son güncelleme: 02:59:58"
+        - generic [ref=f7e75]:
+            - generic [ref=f7e76] [cursor=pointer]: 1G
+            - generic [ref=f7e77] [cursor=pointer]: 1H
+            - generic [ref=f7e78] [cursor=pointer]: 1A
+            - generic [ref=f7e79] [cursor=pointer]: 3A
+            - generic [ref=f7e80] [cursor=pointer]: 1Y
+            - generic [ref=f7e81] [cursor=pointer]: 2Y
+            - generic [ref=f7e82] [cursor=pointer]: 5Y
+        - generic [ref=f7e83]:
+            - generic [ref=f7e85]:
+                - paragraph [ref=f7e86]: Toplam İşlem Hacmi
+                - paragraph [ref=f7e87]: $22.634.060,00
+            - generic [ref=f7e89]:
+                - paragraph [ref=f7e90]: Değişim
+                - paragraph [ref=f7e91]: $5,54 (1,65%)
+            - list [ref=f7e95]:
+                - listitem [ref=f7e96]:
+                    - link "AL" [ref=f7e97] [cursor=pointer]:
+                        - /url: javascript:;
+        - generic [ref=f7e98]:
+            - heading "AAPL Hisse ve Finansal Bilgileri" [level=2] [ref=f7e99]
+            - generic [ref=f7e100]:
+                - generic [ref=f7e101]:
+                    - generic [ref=f7e102]:
+                        - paragraph [ref=f7e103]: Son İşlem Fiyatı
+                        - generic [ref=f7e104]: $340,99
+                    - generic [ref=f7e105]:
+                        - paragraph [ref=f7e106]: Açılış Fiyatı
+                        - generic [ref=f7e107]: $336,04
+                    - generic [ref=f7e108]:
+                        - paragraph [ref=f7e109]: Günlük Değişim ($)
+                        - generic [ref=f7e110]: $5,54
+                    - generic [ref=f7e111]:
+                        - paragraph [ref=f7e112]: Piyasa Değeri
+                        - generic [ref=f7e113]: $4,98 Trilyon
+                    - generic [ref=f7e114]:
+                        - paragraph [ref=f7e115]: Günlük Değişim %
+                        - generic [ref=f7e116]: 1,65%
+                    - generic [ref=f7e117]:
+                        - paragraph [ref=f7e118]: Faaliyet Kârı/Zararı
+                        - generic [ref=f7e119]: $154,86 Milyar
+                    - generic [ref=f7e120]:
+                        - paragraph [ref=f7e121]: Tavan
+                        - generic [ref=f7e122]: $338,91
+                    - generic [ref=f7e123]:
+                        - paragraph [ref=f7e124]: Net Kâr/Zarar
+                        - generic [ref=f7e125]: $128,93 Milyar
+                    - generic [ref=f7e126]:
+                        - paragraph [ref=f7e127]: Taban
+                        - generic [ref=f7e128]: $334,30
+                    - generic [ref=f7e129]:
+                        - paragraph [ref=f7e130]: Brüt Kâr
+                        - generic [ref=f7e131]: $227,12 Milyar
+                - generic [ref=f7e132]:
+                    - generic [ref=f7e133]:
+                        - paragraph [ref=f7e134]: Varlıklar
+                        - generic [ref=f7e135]: $383,27 Milyar
+                    - generic [ref=f7e136]:
+                        - paragraph [ref=f7e137]: Özkaynaklar
+                        - generic [ref=f7e138]: $107,52 Milyar
+                    - generic [ref=f7e139]:
+                        - paragraph [ref=f7e140]: Dönen Varlıklar
+                        - generic [ref=f7e141]: $149,82 Milyar
+                    - generic [ref=f7e142]:
+                        - paragraph [ref=f7e143]: Stoklar
+                        - generic [ref=f7e144]: $11,09 Milyar
+                    - generic [ref=f7e145]:
+                        - paragraph [ref=f7e146]: Duran Varlıklar
+                        - generic [ref=f7e147]: $233,45 Milyar
+                    - generic [ref=f7e148]:
+                        - paragraph [ref=f7e149]: Uzun Vadeli Yükümlülükler
+                        - generic [ref=f7e150]: $126,42 Milyar
+                    - generic [ref=f7e151]:
+                        - paragraph [ref=f7e152]: Sabit Varlıklar
+                        - generic [ref=f7e153]: $51,43 Milyar
+                    - generic [ref=f7e154]:
+                        - paragraph [ref=f7e155]: Uzun Vadeli Borçlar
+                        - generic [ref=f7e156]: $71,34 Milyar
+                    - generic [ref=f7e157]:
+                        - paragraph [ref=f7e158]: Faaliyet Giderleri
+                        - generic [ref=f7e159]: $72,26 Milyar
+                    - generic [ref=f7e160]:
+                        - paragraph [ref=f7e161]: Ticari Borçlar
+                        - generic [ref=f7e162]: $64,53 Milyar
+        - generic [ref=f7e163]:
+            - generic [ref=f7e164]:
+                - heading "AAPL Hisse Haberleri ve Yorumları" [level=2] [ref=f7e165]
+                - link "Tümünü Gör" [ref=f7e166] [cursor=pointer]:
+                    - /url: /search/aapl
+            - generic [ref=f7e167]:
+                - 'link "Midas’ın Kulakları • 2 hafta once Haftanın Manşetleri: ABD-İran hattında hareketlilik, Fed''in faiz artırım ihtimali güç kazandı, TCMB %37''de kararlı post-card-thumbnail" [ref=f7e168] [cursor=pointer]':
+                    - /url: /midasin-kulaklari/haftanin-mansetleri-abd-iran-hattinda-hareketlilik-fedde-faiz-artirim-ihtimali-guc-kazandi-tcmb-37de-kararli-p-745776
+                    - generic [ref=f7e169]:
+                        - generic [ref=f7e170]:
+                            - generic [ref=f7e171]: Midas’ın Kulakları • 2 hafta once
+                            - paragraph [ref=f7e172]: "Haftanın Manşetleri: ABD-İran hattında hareketlilik, Fed'in faiz artırım ihtimali güç kazandı, TCMB %37'de kararlı"
+                        - img "post-card-thumbnail" [ref=f7e174]
+                - 'link "Midas’ın Kulakları • 2 hafta once Midas ile gün sonu: M, AKBNK, AAPL, BORSK, NVDA, KGYO post-card-thumbnail" [ref=f7e175] [cursor=pointer]':
+                    - /url: /midasin-kulaklari/midas-ile-gun-sonu-m-akbnk-aapl-borsk-nvda-kgyo-p-743656
+                    - generic [ref=f7e176]:
+                        - generic [ref=f7e177]:
+                            - generic [ref=f7e178]: Midas’ın Kulakları • 2 hafta once
+                            - paragraph [ref=f7e179]: "Midas ile gün sonu: M, AKBNK, AAPL, BORSK, NVDA, KGYO"
+                        - img "post-card-thumbnail" [ref=f7e181]
+                - 'link "Midas’ın Kulakları • 2 hafta once Midas ile gün sonu: AAPL, THYAO, QCOM, ASTOR, GME, TAVHL post-card-thumbnail" [ref=f7e182] [cursor=pointer]':
+                    - /url: /midasin-kulaklari/midas-ile-gun-sonu-aapl-thyao-qcom-astor-gme-tavhl-p-741103
+                    - generic [ref=f7e183]:
+                        - generic [ref=f7e184]:
+                            - generic [ref=f7e185]: Midas’ın Kulakları • 2 hafta once
+                            - paragraph [ref=f7e186]: "Midas ile gün sonu: AAPL, THYAO, QCOM, ASTOR, GME, TAVHL"
+                        - img "post-card-thumbnail" [ref=f7e188]
+        - generic [ref=f7e191]:
+            - generic [ref=f7e192]:
+                - heading "AAPL Hissesi Nasıl Alınır?" [level=2] [ref=f7e194] [cursor=pointer]
+                - generic "AAPL Hissesi Nasıl Alınır?" [ref=f7e195]: AAPL hissesi en güvenli, kolay ve hızlı şekilde Midas’tan alınır. App Store ya da Google Play'den Midas uygulamasını indirerek dakikalar içinde Midas yatırım hesabını açabilirsin. Daha sonra Arama kısmına AAPL yazarak hissenin detay sayfasına gidip kolayca yatırım yapabilirsin
+            - heading "AAPL Hisse Yorumları ve Gelişmeleri" [level=2] [ref=f7e199] [cursor=pointer]
+            - heading "Canlı Veri Nasıl Görebilirim?" [level=2] [ref=f7e202] [cursor=pointer]
+            - heading "AAPL Hissesinin Bugünkü Fiyatı Ne Kadar?" [level=2] [ref=f7e205] [cursor=pointer]
+            - heading "AAPL Hissesinin Piyasa Değeri Ne Kadar?" [level=2] [ref=f7e208] [cursor=pointer]
+            - heading "AAPL Hissesinin İşlem Hacmi Ne Kadar?" [level=2] [ref=f7e211] [cursor=pointer]
+            - heading "AAPL Hissesinin Son 52 Haftalık En Yüksek Fiyatı Ne Kadar?" [level=2] [ref=f7e214] [cursor=pointer]
+            - heading "AAPL Hissesinin Son 52 Haftalık En Düşük Fiyatı Ne Kadar?" [level=2] [ref=f7e217] [cursor=pointer]
+            - heading "AAPL Açılımı Nedir?" [level=2] [ref=f7e220] [cursor=pointer]
+            - heading "AAPL Hissesinin F/K (P/E) Oranı Kaçtır?" [level=2] [ref=f7e223] [cursor=pointer]
+    - contentinfo [ref=f7e224]:
+        - generic [ref=f7e228]:
+            - link "Midas" [ref=f7e230] [cursor=pointer]:
+                - /url: /
+            - navigation "Footer Navigation" [ref=f7e235]:
+                - generic [ref=f7e237]:
+                    - link "Hakkımızda" [ref=f7e238] [cursor=pointer]:
+                        - /url: /hakkimizda/
+                    - link "Destek Merkezi" [ref=f7e239] [cursor=pointer]:
+                        - /url: /destek
+                    - link "Midas'ın Kulakları" [ref=f7e240] [cursor=pointer]:
+                        - /url: /midas-kulaklari/
+                    - link "Midas Akademi" [ref=f7e241] [cursor=pointer]:
+                        - /url: /midas-akademi
+                    - link "Borsa Terimleri" [ref=f7e242] [cursor=pointer]:
+                        - /url: /borsa-terimleri/
+                    - link "Piyasalar" [ref=f7e243] [cursor=pointer]:
+                        - /url: "##"
+                    - link "Kripto" [ref=f7e244] [cursor=pointer]:
+                        - /url: /midas-kripto/
+                    - link "Ayrıcalıklar" [ref=f7e245] [cursor=pointer]:
+                        - /url: /ayricaliklar/
+                - list [ref=f7e248]:
+                    - link "Borsa İstanbul" [ref=f7e249] [cursor=pointer]:
+                        - /url: /borsa-istanbul/
+                    - link "ABD Borsaları" [ref=f7e250] [cursor=pointer]:
+                        - /url: /abd-borsalari/
+                    - link "Fon" [ref=f7e251] [cursor=pointer]:
+                        - /url: /fon/
+                    - link "Midas Kripto" [ref=f7e252] [cursor=pointer]:
+                        - /url: /midas-kripto/
+                    - link "Avrupa Borsaları" [ref=f7e253] [cursor=pointer]:
+                        - /url: /avrupa-borsalari/
+                    - link "VİOP" [ref=f7e254] [cursor=pointer]:
+                        - /url: /viop/
+                    - link "Atlas" [ref=f7e255] [cursor=pointer]:
+                        - /url: /atlas/
+                    - link "Sıfır Komisyon" [ref=f7e256] [cursor=pointer]:
+                        - /url: /komisyonsuz-hisse-alim-satim
+                    - link "Kredili Yatırım" [ref=f7e257] [cursor=pointer]:
+                        - /url: /kredili-islem/
+                    - link "Ücretler" [ref=f7e258] [cursor=pointer]:
+                        - /url: /ucretler/
+                    - link "Kariyer" [ref=f7e259] [cursor=pointer]:
+                        - /url: https://jobs.lever.co/getmidas
+            - generic [ref=f7e260]:
+                - generic [ref=f7e261]:
+                    - heading "Adres" [level=5]
+                    - paragraph [ref=f7e262]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+                - generic [ref=f7e263]:
+                    - heading "E-mail" [level=5]
+                    - link "destek@midasyatırım.com" [ref=f7e264] [cursor=pointer]:
+                        - /url: mailto:destek@midasyatırım.com
+                - generic [ref=f7e266]:
+                    - heading "Sosyal Medya" [level=5] [ref=f7e268]
+                    - generic [ref=f7e270]:
+                        - link [ref=f7e271] [cursor=pointer]:
+                            - /url: https://www.instagram.com/midas/
+                        - link [ref=f7e275] [cursor=pointer]:
+                            - /url: https://twitter.com/getmidas
+                        - link [ref=f7e278] [cursor=pointer]:
+                            - /url: https://www.facebook.com/getmidas
+                        - link [ref=f7e282] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/getmidas
+                        - link [ref=f7e286] [cursor=pointer]:
+                            - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+                        - link [ref=f7e289] [cursor=pointer]:
+                            - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+            - generic [ref=f7e293]:
+                - paragraph
+                - paragraph [ref=f7e294]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+                - paragraph [ref=f7e295]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+                - paragraph [ref=f7e296]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+                - paragraph
+        - generic [ref=f7e300]:
+            - paragraph [ref=f7e303]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+            - generic [ref=f7e305]:
+                - link "Kişisel Verilerin Korunması" [ref=f7e306] [cursor=pointer]:
+                    - /url: /kisisel-verilerin-korunmasi-kvkk/
+                - link "Gizlilik Politikası" [ref=f7e307] [cursor=pointer]:
+                    - /url: /gizlilik-politikasi/
+                - link "Yasal Duyurular" [ref=f7e308] [cursor=pointer]:
+                    - /url: /yasal-duyurular-ve-sozlesmeler/
+                - link "Çerez Ayarları" [ref=f7e309] [cursor=pointer]:
+                    - /url: "#"
+    - link [ref=f7e311] [cursor=pointer]:
         - /url: javascript:;
-    - generic [ref=f7e56]:
-      - img "Apple Inc. Logo" [ref=f7e57]
-      - heading "Apple Inc. | AAPL" [level=1] [ref=f7e58]
-    - generic [ref=f7e59]:
-      - paragraph [ref=f7e60]: $340.987
-      - paragraph [ref=f7e64]: 1,65%
-      - generic [ref=f7e65]: "Son güncelleme: 02:59:58"
-    - generic [ref=f7e75]:
-      - generic [ref=f7e76] [cursor=pointer]: 1G
-      - generic [ref=f7e77] [cursor=pointer]: 1H
-      - generic [ref=f7e78] [cursor=pointer]: 1A
-      - generic [ref=f7e79] [cursor=pointer]: 3A
-      - generic [ref=f7e80] [cursor=pointer]: 1Y
-      - generic [ref=f7e81] [cursor=pointer]: 2Y
-      - generic [ref=f7e82] [cursor=pointer]: 5Y
-    - generic [ref=f7e83]:
-      - generic [ref=f7e85]:
-        - paragraph [ref=f7e86]: Toplam İşlem Hacmi
-        - paragraph [ref=f7e87]: $22.634.060,00
-      - generic [ref=f7e89]:
-        - paragraph [ref=f7e90]: Değişim
-        - paragraph [ref=f7e91]: $5,54 (1,65%)
-      - list [ref=f7e95]:
-        - listitem [ref=f7e96]:
-          - link "AL" [ref=f7e97] [cursor=pointer]:
-            - /url: javascript:;
-    - generic [ref=f7e98]:
-      - heading "AAPL Hisse ve Finansal Bilgileri" [level=2] [ref=f7e99]
-      - generic [ref=f7e100]:
-        - generic [ref=f7e101]:
-          - generic [ref=f7e102]:
-            - paragraph [ref=f7e103]: Son İşlem Fiyatı
-            - generic [ref=f7e104]: $340,99
-          - generic [ref=f7e105]:
-            - paragraph [ref=f7e106]: Açılış Fiyatı
-            - generic [ref=f7e107]: $336,04
-          - generic [ref=f7e108]:
-            - paragraph [ref=f7e109]: Günlük Değişim ($)
-            - generic [ref=f7e110]: $5,54
-          - generic [ref=f7e111]:
-            - paragraph [ref=f7e112]: Piyasa Değeri
-            - generic [ref=f7e113]: $4,98 Trilyon
-          - generic [ref=f7e114]:
-            - paragraph [ref=f7e115]: Günlük Değişim %
-            - generic [ref=f7e116]: 1,65%
-          - generic [ref=f7e117]:
-            - paragraph [ref=f7e118]: Faaliyet Kârı/Zararı
-            - generic [ref=f7e119]: $154,86 Milyar
-          - generic [ref=f7e120]:
-            - paragraph [ref=f7e121]: Tavan
-            - generic [ref=f7e122]: $338,91
-          - generic [ref=f7e123]:
-            - paragraph [ref=f7e124]: Net Kâr/Zarar
-            - generic [ref=f7e125]: $128,93 Milyar
-          - generic [ref=f7e126]:
-            - paragraph [ref=f7e127]: Taban
-            - generic [ref=f7e128]: $334,30
-          - generic [ref=f7e129]:
-            - paragraph [ref=f7e130]: Brüt Kâr
-            - generic [ref=f7e131]: $227,12 Milyar
-        - generic [ref=f7e132]:
-          - generic [ref=f7e133]:
-            - paragraph [ref=f7e134]: Varlıklar
-            - generic [ref=f7e135]: $383,27 Milyar
-          - generic [ref=f7e136]:
-            - paragraph [ref=f7e137]: Özkaynaklar
-            - generic [ref=f7e138]: $107,52 Milyar
-          - generic [ref=f7e139]:
-            - paragraph [ref=f7e140]: Dönen Varlıklar
-            - generic [ref=f7e141]: $149,82 Milyar
-          - generic [ref=f7e142]:
-            - paragraph [ref=f7e143]: Stoklar
-            - generic [ref=f7e144]: $11,09 Milyar
-          - generic [ref=f7e145]:
-            - paragraph [ref=f7e146]: Duran Varlıklar
-            - generic [ref=f7e147]: $233,45 Milyar
-          - generic [ref=f7e148]:
-            - paragraph [ref=f7e149]: Uzun Vadeli Yükümlülükler
-            - generic [ref=f7e150]: $126,42 Milyar
-          - generic [ref=f7e151]:
-            - paragraph [ref=f7e152]: Sabit Varlıklar
-            - generic [ref=f7e153]: $51,43 Milyar
-          - generic [ref=f7e154]:
-            - paragraph [ref=f7e155]: Uzun Vadeli Borçlar
-            - generic [ref=f7e156]: $71,34 Milyar
-          - generic [ref=f7e157]:
-            - paragraph [ref=f7e158]: Faaliyet Giderleri
-            - generic [ref=f7e159]: $72,26 Milyar
-          - generic [ref=f7e160]:
-            - paragraph [ref=f7e161]: Ticari Borçlar
-            - generic [ref=f7e162]: $64,53 Milyar
-    - generic [ref=f7e163]:
-      - generic [ref=f7e164]:
-        - heading "AAPL Hisse Haberleri ve Yorumları" [level=2] [ref=f7e165]
-        - link "Tümünü Gör" [ref=f7e166] [cursor=pointer]:
-          - /url: /search/aapl
-      - generic [ref=f7e167]:
-        - 'link "Midas’ın Kulakları • 2 hafta once Haftanın Manşetleri: ABD-İran hattında hareketlilik, Fed''in faiz artırım ihtimali güç kazandı, TCMB %37''de kararlı post-card-thumbnail" [ref=f7e168] [cursor=pointer]':
-          - /url: /midasin-kulaklari/haftanin-mansetleri-abd-iran-hattinda-hareketlilik-fedde-faiz-artirim-ihtimali-guc-kazandi-tcmb-37de-kararli-p-745776
-          - generic [ref=f7e169]:
-            - generic [ref=f7e170]:
-              - generic [ref=f7e171]: Midas’ın Kulakları • 2 hafta once
-              - paragraph [ref=f7e172]: "Haftanın Manşetleri: ABD-İran hattında hareketlilik, Fed'in faiz artırım ihtimali güç kazandı, TCMB %37'de kararlı"
-            - img "post-card-thumbnail" [ref=f7e174]
-        - 'link "Midas’ın Kulakları • 2 hafta once Midas ile gün sonu: M, AKBNK, AAPL, BORSK, NVDA, KGYO post-card-thumbnail" [ref=f7e175] [cursor=pointer]':
-          - /url: /midasin-kulaklari/midas-ile-gun-sonu-m-akbnk-aapl-borsk-nvda-kgyo-p-743656
-          - generic [ref=f7e176]:
-            - generic [ref=f7e177]:
-              - generic [ref=f7e178]: Midas’ın Kulakları • 2 hafta once
-              - paragraph [ref=f7e179]: "Midas ile gün sonu: M, AKBNK, AAPL, BORSK, NVDA, KGYO"
-            - img "post-card-thumbnail" [ref=f7e181]
-        - 'link "Midas’ın Kulakları • 2 hafta once Midas ile gün sonu: AAPL, THYAO, QCOM, ASTOR, GME, TAVHL post-card-thumbnail" [ref=f7e182] [cursor=pointer]':
-          - /url: /midasin-kulaklari/midas-ile-gun-sonu-aapl-thyao-qcom-astor-gme-tavhl-p-741103
-          - generic [ref=f7e183]:
-            - generic [ref=f7e184]:
-              - generic [ref=f7e185]: Midas’ın Kulakları • 2 hafta once
-              - paragraph [ref=f7e186]: "Midas ile gün sonu: AAPL, THYAO, QCOM, ASTOR, GME, TAVHL"
-            - img "post-card-thumbnail" [ref=f7e188]
-    - generic [ref=f7e191]:
-      - generic [ref=f7e192]:
-        - heading "AAPL Hissesi Nasıl Alınır?" [level=2] [ref=f7e194] [cursor=pointer]
-        - generic "AAPL Hissesi Nasıl Alınır?" [ref=f7e195]: AAPL hissesi en güvenli, kolay ve hızlı şekilde Midas’tan alınır. App Store ya da Google Play'den Midas uygulamasını indirerek dakikalar içinde Midas yatırım hesabını açabilirsin. Daha sonra Arama kısmına AAPL yazarak hissenin detay sayfasına gidip kolayca yatırım yapabilirsin
-      - heading "AAPL Hisse Yorumları ve Gelişmeleri" [level=2] [ref=f7e199] [cursor=pointer]
-      - heading "Canlı Veri Nasıl Görebilirim?" [level=2] [ref=f7e202] [cursor=pointer]
-      - heading "AAPL Hissesinin Bugünkü Fiyatı Ne Kadar?" [level=2] [ref=f7e205] [cursor=pointer]
-      - heading "AAPL Hissesinin Piyasa Değeri Ne Kadar?" [level=2] [ref=f7e208] [cursor=pointer]
-      - heading "AAPL Hissesinin İşlem Hacmi Ne Kadar?" [level=2] [ref=f7e211] [cursor=pointer]
-      - heading "AAPL Hissesinin Son 52 Haftalık En Yüksek Fiyatı Ne Kadar?" [level=2] [ref=f7e214] [cursor=pointer]
-      - heading "AAPL Hissesinin Son 52 Haftalık En Düşük Fiyatı Ne Kadar?" [level=2] [ref=f7e217] [cursor=pointer]
-      - heading "AAPL Açılımı Nedir?" [level=2] [ref=f7e220] [cursor=pointer]
-      - heading "AAPL Hissesinin F/K (P/E) Oranı Kaçtır?" [level=2] [ref=f7e223] [cursor=pointer]
-  - contentinfo [ref=f7e224]:
-    - generic [ref=f7e228]:
-      - link "Midas" [ref=f7e230] [cursor=pointer]:
-        - /url: /
-      - navigation "Footer Navigation" [ref=f7e235]:
-        - generic [ref=f7e237]:
-          - link "Hakkımızda" [ref=f7e238] [cursor=pointer]:
-            - /url: /hakkimizda/
-          - link "Destek Merkezi" [ref=f7e239] [cursor=pointer]:
-            - /url: /destek
-          - link "Midas'ın Kulakları" [ref=f7e240] [cursor=pointer]:
-            - /url: /midas-kulaklari/
-          - link "Midas Akademi" [ref=f7e241] [cursor=pointer]:
-            - /url: /midas-akademi
-          - link "Borsa Terimleri" [ref=f7e242] [cursor=pointer]:
-            - /url: /borsa-terimleri/
-          - link "Piyasalar" [ref=f7e243] [cursor=pointer]:
-            - /url: "##"
-          - link "Kripto" [ref=f7e244] [cursor=pointer]:
-            - /url: /midas-kripto/
-          - link "Ayrıcalıklar" [ref=f7e245] [cursor=pointer]:
-            - /url: /ayricaliklar/
-        - list [ref=f7e248]:
-          - link "Borsa İstanbul" [ref=f7e249] [cursor=pointer]:
-            - /url: /borsa-istanbul/
-          - link "ABD Borsaları" [ref=f7e250] [cursor=pointer]:
-            - /url: /abd-borsalari/
-          - link "Fon" [ref=f7e251] [cursor=pointer]:
-            - /url: /fon/
-          - link "Midas Kripto" [ref=f7e252] [cursor=pointer]:
-            - /url: /midas-kripto/
-          - link "Avrupa Borsaları" [ref=f7e253] [cursor=pointer]:
-            - /url: /avrupa-borsalari/
-          - link "VİOP" [ref=f7e254] [cursor=pointer]:
-            - /url: /viop/
-          - link "Atlas" [ref=f7e255] [cursor=pointer]:
-            - /url: /atlas/
-          - link "Sıfır Komisyon" [ref=f7e256] [cursor=pointer]:
-            - /url: /komisyonsuz-hisse-alim-satim
-          - link "Kredili Yatırım" [ref=f7e257] [cursor=pointer]:
-            - /url: /kredili-islem/
-          - link "Ücretler" [ref=f7e258] [cursor=pointer]:
-            - /url: /ucretler/
-          - link "Kariyer" [ref=f7e259] [cursor=pointer]:
-            - /url: https://jobs.lever.co/getmidas
-      - generic [ref=f7e260]:
-        - generic [ref=f7e261]:
-          - heading "Adres" [level=5]
-          - paragraph [ref=f7e262]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
-        - generic [ref=f7e263]:
-          - heading "E-mail" [level=5]
-          - link "destek@midasyatirim.com" [ref=f7e264] [cursor=pointer]:
-            - /url: mailto:destek@midasyatirim.com
-        - generic [ref=f7e266]:
-          - heading "Sosyal Medya" [level=5] [ref=f7e268]
-          - generic [ref=f7e270]:
-            - link [ref=f7e271] [cursor=pointer]:
-              - /url: https://www.instagram.com/midas/
-            - link [ref=f7e275] [cursor=pointer]:
-              - /url: https://twitter.com/getmidas
-            - link [ref=f7e278] [cursor=pointer]:
-              - /url: https://www.facebook.com/getmidas
-            - link [ref=f7e282] [cursor=pointer]:
-              - /url: https://www.linkedin.com/company/getmidas
-            - link [ref=f7e286] [cursor=pointer]:
-              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
-            - link [ref=f7e289] [cursor=pointer]:
-              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
-      - generic [ref=f7e293]:
-        - paragraph
-        - paragraph [ref=f7e294]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
-        - paragraph [ref=f7e295]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
-        - paragraph [ref=f7e296]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
-        - paragraph
-    - generic [ref=f7e300]:
-      - paragraph [ref=f7e303]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
-      - generic [ref=f7e305]:
-        - link "Kişisel Verilerin Korunması" [ref=f7e306] [cursor=pointer]:
-          - /url: /kisisel-verilerin-korunmasi-kvkk/
-        - link "Gizlilik Politikası" [ref=f7e307] [cursor=pointer]:
-          - /url: /gizlilik-politikasi/
-        - link "Yasal Duyurular" [ref=f7e308] [cursor=pointer]:
-          - /url: /yasal-duyurular-ve-sozlesmeler/
-        - link "Çerez Ayarları" [ref=f7e309] [cursor=pointer]:
-          - /url: "#"
-  - link [ref=f7e311] [cursor=pointer]:
-    - /url: javascript:;

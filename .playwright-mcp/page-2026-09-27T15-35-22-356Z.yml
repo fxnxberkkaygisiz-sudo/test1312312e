@@ -1,176 +1,176 @@
 - generic [active] [ref=f4e1]:
-  - banner [ref=f4e2]:
-    - generic [ref=f4e5]:
-      - link "Midas" [ref=f4e9] [cursor=pointer]:
-        - /url: /
-      - navigation "Primary Navigation" [ref=f4e15]:
-        - list [ref=f4e17]:
-          - listitem [ref=f4e18]:
-            - link "Ürünler" [ref=f4e19] [cursor=pointer]:
-              - /url: "##"
-          - listitem [ref=f4e20]:
-            - link "Atlas" [ref=f4e21] [cursor=pointer]:
-              - /url: /atlas/
-          - listitem [ref=f4e22]:
-            - link "Ücretler" [ref=f4e23] [cursor=pointer]:
-              - /url: /ucretler/
-          - listitem [ref=f4e24]:
-            - link "Midas’ın Kulakları" [ref=f4e25] [cursor=pointer]:
-              - /url: /midas-kulaklari/
-          - listitem [ref=f4e26]:
-            - link "Canlı Borsa" [ref=f4e27] [cursor=pointer]:
-              - /url: /canli-borsa/
-          - listitem [ref=f4e28]:
-            - link "Destek" [ref=f4e29] [cursor=pointer]:
-              - /url: /destek/
-      - generic [ref=f4e31]:
-        - link "Giriş Yap" [ref=f4e33] [cursor=pointer]:
-          - /url: https://atlas.midasyatirim.com/login
-        - list [ref=f4e35]:
-          - listitem [ref=f4e36]:
-            - link "Kayıt Ol" [ref=f4e37] [cursor=pointer]:
-              - /url: /kayit-ol/
-  - main [ref=f4e38]:
-    - generic [ref=f4e43]:
-      - heading "Midas Destek Merkezi" [level=1] [ref=f4e45]
-      - paragraph [ref=f4e47]: Aklındaki tüm sorulara cevap bulmak ve ihtiyaç duyduğun her konuda destek almak için 7/24 Midas Destek Merkezi’nden bize ulaşabilirsin.
-      - generic [ref=f4e49]:
-        - button [ref=f4e50] [cursor=pointer]
-        - textbox "Nasıl yardım edebiliriz?" [ref=f4e55]
-    - generic [ref=f4e60]:
-      - link "Amerikan borsaları" [ref=f4e62] [cursor=pointer]:
-        - /url: /destek/amerikan-borsalari
-        - heading "Amerikan borsaları" [level=5] [ref=f4e66]:
-          - generic [ref=f4e67]: Amerikan
-          - generic [ref=f4e68]: borsaları
-      - link "Avrupa Borsaları" [ref=f4e70] [cursor=pointer]:
-        - /url: /destek/avrupa-borsalari
-        - heading "Avrupa Borsaları" [level=5] [ref=f4e74]:
-          - generic [ref=f4e75]: Avrupa
-          - generic [ref=f4e76]: Borsaları
-      - link "Borsa İstanbul" [ref=f4e78] [cursor=pointer]:
-        - /url: /destek/borsa-istanbul
-        - heading "Borsa İstanbul" [level=5] [ref=f4e82]:
-          - generic [ref=f4e83]: Borsa
-          - generic [ref=f4e84]: İstanbul
-      - link "Midas ile yatırıma başlarken" [ref=f4e86] [cursor=pointer]:
-        - /url: /destek/midas-ile-yatirima-baslarken
-        - heading "Midas ile yatırıma başlarken" [level=5] [ref=f4e90]
-      - link "Para transferi ve döviz al/sat" [ref=f4e92] [cursor=pointer]:
-        - /url: /destek/para-transferi-ve-doviz-al-sat
-        - heading "Para transferi ve döviz al/sat" [level=5] [ref=f4e96]
-      - link "Profil ve hesap bilgileri" [ref=f4e98] [cursor=pointer]:
-        - /url: /destek/profil-ve-hesap-bilgileri
-        - heading "Profil ve hesap bilgileri" [level=5] [ref=f4e102]
-      - link "Yatırım fonları" [ref=f4e104] [cursor=pointer]:
-        - /url: /destek/yatirim-fonlari
-        - heading "Yatırım fonları" [level=5] [ref=f4e108]:
-          - generic [ref=f4e109]: Yatırım
-          - generic [ref=f4e110]: fonları
-    - generic [ref=f4e115]:
-      - heading "Midas Destek Merkezi'ne nasıl ulaşabilirim?" [level=3] [ref=f4e116]
-      - paragraph [ref=f4e117]: "Destek Hattı: Hafta içi 08:00 - 03:00"
-    - generic [ref=f4e119]:
-      - generic [ref=f4e120]:
-        - link "Bize Yaz destek@midasyatirim.com" [ref=f4e123] [cursor=pointer]:
-          - /url: mailto:destek@midasyatirim.com
-          - generic [ref=f4e125]:
-            - heading "Bize Yaz" [level=5] [ref=f4e126]
-            - paragraph [ref=f4e127]: destek@midasyatirim.com
-        - link [ref=f4e130] [cursor=pointer]:
-          - /url: https://twitter.com/midasdestek
-          - generic [ref=f4e135]:
-            - heading "Bizi Takip Et" [level=5] [ref=f4e136]
-            - paragraph [ref=f4e137]: "@midasdestek"
-      - paragraph [ref=f4e141]:
-        - text: Midas Finansal Teknolojiler Anonim Şirketi tarafından, işbu iletişim kanalları aracılığıyla paylaşmakta olduğunuz bilgileriniz, 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında; iletişim faaliyetlerinin yürütülmesi amacı başta olmak üzere İletişim Aydınlatma Metni’nde yer alan diğer amaçlarla işlenecek olup ayrıntılı bilgi için “
-        - link "İletişim Aydınlatma Metni" [ref=f4e142] [cursor=pointer]:
-          - /url: /wp-content/uploads/2025/12/Midas-Finansal-Iletisim-Aydinlatma-Metni_V2.pdf
-        - text: ”ni inceleyebilirsiniz.
-  - contentinfo [ref=f4e143]:
-    - generic [ref=f4e147]:
-      - link "Midas" [ref=f4e149] [cursor=pointer]:
-        - /url: /
-      - navigation "Footer Navigation" [ref=f4e154]:
-        - generic [ref=f4e156]:
-          - link "Hakkımızda" [ref=f4e157] [cursor=pointer]:
-            - /url: /hakkimizda/
-          - link "Destek Merkezi" [ref=f4e158] [cursor=pointer]:
-            - /url: /destek
-          - link "Midas'ın Kulakları" [ref=f4e159] [cursor=pointer]:
-            - /url: /midas-kulaklari/
-          - link "Midas Akademi" [ref=f4e160] [cursor=pointer]:
-            - /url: /midas-akademi
-          - link "Borsa Terimleri" [ref=f4e161] [cursor=pointer]:
-            - /url: /borsa-terimleri/
-          - link "Piyasalar" [ref=f4e162] [cursor=pointer]:
-            - /url: "##"
-          - link "Kripto" [ref=f4e163] [cursor=pointer]:
-            - /url: /midas-kripto/
-          - link "Ayrıcalıklar" [ref=f4e164] [cursor=pointer]:
-            - /url: /ayricaliklar/
-        - list [ref=f4e167]:
-          - link "Borsa İstanbul" [ref=f4e168] [cursor=pointer]:
-            - /url: /borsa-istanbul/
-          - link "ABD Borsaları" [ref=f4e169] [cursor=pointer]:
-            - /url: /abd-borsalari/
-          - link "Fon" [ref=f4e170] [cursor=pointer]:
-            - /url: /fon/
-          - link "Midas Kripto" [ref=f4e171] [cursor=pointer]:
-            - /url: /midas-kripto/
-          - link "Avrupa Borsaları" [ref=f4e172] [cursor=pointer]:
-            - /url: /avrupa-borsalari/
-          - link "VİOP" [ref=f4e173] [cursor=pointer]:
-            - /url: /viop/
-          - link "Atlas" [ref=f4e174] [cursor=pointer]:
-            - /url: /atlas/
-          - link "Sıfır Komisyon" [ref=f4e175] [cursor=pointer]:
-            - /url: /komisyonsuz-hisse-alim-satim
-          - link "Kredili Yatırım" [ref=f4e176] [cursor=pointer]:
-            - /url: /kredili-islem/
-          - link "Ücretler" [ref=f4e177] [cursor=pointer]:
-            - /url: /ucretler/
-          - link "Kariyer" [ref=f4e178] [cursor=pointer]:
-            - /url: https://jobs.lever.co/getmidas
-      - generic [ref=f4e179]:
-        - generic [ref=f4e180]:
-          - heading "Adres" [level=5]
-          - paragraph [ref=f4e181]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
-        - generic [ref=f4e182]:
-          - heading "E-mail" [level=5]
-          - link "destek@midasyatirim.com" [ref=f4e183] [cursor=pointer]:
-            - /url: mailto:destek@midasyatirim.com
-        - generic [ref=f4e185]:
-          - heading "Sosyal Medya" [level=5] [ref=f4e187]
-          - generic [ref=f4e189]:
-            - link [ref=f4e190] [cursor=pointer]:
-              - /url: https://www.instagram.com/midas/
-            - link [ref=f4e194] [cursor=pointer]:
-              - /url: https://twitter.com/getmidas
-            - link [ref=f4e197] [cursor=pointer]:
-              - /url: https://www.facebook.com/getmidas
-            - link [ref=f4e201] [cursor=pointer]:
-              - /url: https://www.linkedin.com/company/getmidas
-            - link [ref=f4e205] [cursor=pointer]:
-              - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
-            - link [ref=f4e208] [cursor=pointer]:
-              - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
-      - generic [ref=f4e212]:
-        - paragraph
-        - paragraph [ref=f4e213]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
-        - paragraph [ref=f4e214]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
-        - paragraph [ref=f4e215]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
-        - paragraph
-    - generic [ref=f4e219]:
-      - paragraph [ref=f4e222]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
-      - generic [ref=f4e224]:
-        - link "Kişisel Verilerin Korunması" [ref=f4e225] [cursor=pointer]:
-          - /url: /kisisel-verilerin-korunmasi-kvkk/
-        - link "Gizlilik Politikası" [ref=f4e226] [cursor=pointer]:
-          - /url: /gizlilik-politikasi/
-        - link "Yasal Duyurular" [ref=f4e227] [cursor=pointer]:
-          - /url: /yasal-duyurular-ve-sozlesmeler/
-        - link "Çerez Ayarları" [ref=f4e228] [cursor=pointer]:
-          - /url: "#"
-  - link [ref=f4e230] [cursor=pointer]:
-    - /url: javascript:;
+    - banner [ref=f4e2]:
+        - generic [ref=f4e5]:
+            - link "Midas" [ref=f4e9] [cursor=pointer]:
+                - /url: /
+            - navigation "Primary Navigation" [ref=f4e15]:
+                - list [ref=f4e17]:
+                    - listitem [ref=f4e18]:
+                        - link "Ürünler" [ref=f4e19] [cursor=pointer]:
+                            - /url: "##"
+                    - listitem [ref=f4e20]:
+                        - link "Atlas" [ref=f4e21] [cursor=pointer]:
+                            - /url: /atlas/
+                    - listitem [ref=f4e22]:
+                        - link "Ücretler" [ref=f4e23] [cursor=pointer]:
+                            - /url: /ucretler/
+                    - listitem [ref=f4e24]:
+                        - link "Midas’ın Kulakları" [ref=f4e25] [cursor=pointer]:
+                            - /url: /midas-kulaklari/
+                    - listitem [ref=f4e26]:
+                        - link "Canlı Borsa" [ref=f4e27] [cursor=pointer]:
+                            - /url: /canli-borsa/
+                    - listitem [ref=f4e28]:
+                        - link "Destek" [ref=f4e29] [cursor=pointer]:
+                            - /url: /destek/
+            - generic [ref=f4e31]:
+                - link "Giriş Yap" [ref=f4e33] [cursor=pointer]:
+                    - /url: https://atlas.midasyatırım.com/login
+                - list [ref=f4e35]:
+                    - listitem [ref=f4e36]:
+                        - link "Kayıt Ol" [ref=f4e37] [cursor=pointer]:
+                            - /url: /kayit-ol/
+    - main [ref=f4e38]:
+        - generic [ref=f4e43]:
+            - heading "Midas Destek Merkezi" [level=1] [ref=f4e45]
+            - paragraph [ref=f4e47]: Aklındaki tüm sorulara cevap bulmak ve ihtiyaç duyduğun her konuda destek almak için 7/24 Midas Destek Merkezi’nden bize ulaşabilirsin.
+            - generic [ref=f4e49]:
+                - button [ref=f4e50] [cursor=pointer]
+                - textbox "Nasıl yardım edebiliriz?" [ref=f4e55]
+        - generic [ref=f4e60]:
+            - link "Amerikan borsaları" [ref=f4e62] [cursor=pointer]:
+                - /url: /destek/amerikan-borsalari
+                - heading "Amerikan borsaları" [level=5] [ref=f4e66]:
+                    - generic [ref=f4e67]: Amerikan
+                    - generic [ref=f4e68]: borsaları
+            - link "Avrupa Borsaları" [ref=f4e70] [cursor=pointer]:
+                - /url: /destek/avrupa-borsalari
+                - heading "Avrupa Borsaları" [level=5] [ref=f4e74]:
+                    - generic [ref=f4e75]: Avrupa
+                    - generic [ref=f4e76]: Borsaları
+            - link "Borsa İstanbul" [ref=f4e78] [cursor=pointer]:
+                - /url: /destek/borsa-istanbul
+                - heading "Borsa İstanbul" [level=5] [ref=f4e82]:
+                    - generic [ref=f4e83]: Borsa
+                    - generic [ref=f4e84]: İstanbul
+            - link "Midas ile yatırıma başlarken" [ref=f4e86] [cursor=pointer]:
+                - /url: /destek/midas-ile-yatirima-baslarken
+                - heading "Midas ile yatırıma başlarken" [level=5] [ref=f4e90]
+            - link "Para transferi ve döviz al/sat" [ref=f4e92] [cursor=pointer]:
+                - /url: /destek/para-transferi-ve-doviz-al-sat
+                - heading "Para transferi ve döviz al/sat" [level=5] [ref=f4e96]
+            - link "Profil ve hesap bilgileri" [ref=f4e98] [cursor=pointer]:
+                - /url: /destek/profil-ve-hesap-bilgileri
+                - heading "Profil ve hesap bilgileri" [level=5] [ref=f4e102]
+            - link "Yatırım fonları" [ref=f4e104] [cursor=pointer]:
+                - /url: /destek/yatirim-fonlari
+                - heading "Yatırım fonları" [level=5] [ref=f4e108]:
+                    - generic [ref=f4e109]: Yatırım
+                    - generic [ref=f4e110]: fonları
+        - generic [ref=f4e115]:
+            - heading "Midas Destek Merkezi'ne nasıl ulaşabilirim?" [level=3] [ref=f4e116]
+            - paragraph [ref=f4e117]: "Destek Hattı: Hafta içi 08:00 - 03:00"
+        - generic [ref=f4e119]:
+            - generic [ref=f4e120]:
+                - link "Bize Yaz destek@midasyatırım.com" [ref=f4e123] [cursor=pointer]:
+                    - /url: mailto:destek@midasyatırım.com
+                    - generic [ref=f4e125]:
+                        - heading "Bize Yaz" [level=5] [ref=f4e126]
+                        - paragraph [ref=f4e127]: destek@midasyatırım.com
+                - link [ref=f4e130] [cursor=pointer]:
+                    - /url: https://twitter.com/midasdestek
+                    - generic [ref=f4e135]:
+                        - heading "Bizi Takip Et" [level=5] [ref=f4e136]
+                        - paragraph [ref=f4e137]: "@midasdestek"
+            - paragraph [ref=f4e141]:
+                - text: Midas Finansal Teknolojiler Anonim Şirketi tarafından, işbu iletişim kanalları aracılığıyla paylaşmakta olduğunuz bilgileriniz, 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında; iletişim faaliyetlerinin yürütülmesi amacı başta olmak üzere İletişim Aydınlatma Metni’nde yer alan diğer amaçlarla işlenecek olup ayrıntılı bilgi için “
+                - link "İletişim Aydınlatma Metni" [ref=f4e142] [cursor=pointer]:
+                    - /url: /wp-content/uploads/2025/12/Midas-Finansal-Iletisim-Aydinlatma-Metni_V2.pdf
+                - text: ”ni inceleyebilirsiniz.
+    - contentinfo [ref=f4e143]:
+        - generic [ref=f4e147]:
+            - link "Midas" [ref=f4e149] [cursor=pointer]:
+                - /url: /
+            - navigation "Footer Navigation" [ref=f4e154]:
+                - generic [ref=f4e156]:
+                    - link "Hakkımızda" [ref=f4e157] [cursor=pointer]:
+                        - /url: /hakkimizda/
+                    - link "Destek Merkezi" [ref=f4e158] [cursor=pointer]:
+                        - /url: /destek
+                    - link "Midas'ın Kulakları" [ref=f4e159] [cursor=pointer]:
+                        - /url: /midas-kulaklari/
+                    - link "Midas Akademi" [ref=f4e160] [cursor=pointer]:
+                        - /url: /midas-akademi
+                    - link "Borsa Terimleri" [ref=f4e161] [cursor=pointer]:
+                        - /url: /borsa-terimleri/
+                    - link "Piyasalar" [ref=f4e162] [cursor=pointer]:
+                        - /url: "##"
+                    - link "Kripto" [ref=f4e163] [cursor=pointer]:
+                        - /url: /midas-kripto/
+                    - link "Ayrıcalıklar" [ref=f4e164] [cursor=pointer]:
+                        - /url: /ayricaliklar/
+                - list [ref=f4e167]:
+                    - link "Borsa İstanbul" [ref=f4e168] [cursor=pointer]:
+                        - /url: /borsa-istanbul/
+                    - link "ABD Borsaları" [ref=f4e169] [cursor=pointer]:
+                        - /url: /abd-borsalari/
+                    - link "Fon" [ref=f4e170] [cursor=pointer]:
+                        - /url: /fon/
+                    - link "Midas Kripto" [ref=f4e171] [cursor=pointer]:
+                        - /url: /midas-kripto/
+                    - link "Avrupa Borsaları" [ref=f4e172] [cursor=pointer]:
+                        - /url: /avrupa-borsalari/
+                    - link "VİOP" [ref=f4e173] [cursor=pointer]:
+                        - /url: /viop/
+                    - link "Atlas" [ref=f4e174] [cursor=pointer]:
+                        - /url: /atlas/
+                    - link "Sıfır Komisyon" [ref=f4e175] [cursor=pointer]:
+                        - /url: /komisyonsuz-hisse-alim-satim
+                    - link "Kredili Yatırım" [ref=f4e176] [cursor=pointer]:
+                        - /url: /kredili-islem/
+                    - link "Ücretler" [ref=f4e177] [cursor=pointer]:
+                        - /url: /ucretler/
+                    - link "Kariyer" [ref=f4e178] [cursor=pointer]:
+                        - /url: https://jobs.lever.co/getmidas
+            - generic [ref=f4e179]:
+                - generic [ref=f4e180]:
+                    - heading "Adres" [level=5]
+                    - paragraph [ref=f4e181]: Altunizade Mah. İnci Çıkmazı Sokak No:3 Daire:3 Üsküdar İstanbul
+                - generic [ref=f4e182]:
+                    - heading "E-mail" [level=5]
+                    - link "destek@midasyatırım.com" [ref=f4e183] [cursor=pointer]:
+                        - /url: mailto:destek@midasyatırım.com
+                - generic [ref=f4e185]:
+                    - heading "Sosyal Medya" [level=5] [ref=f4e187]
+                    - generic [ref=f4e189]:
+                        - link [ref=f4e190] [cursor=pointer]:
+                            - /url: https://www.instagram.com/midas/
+                        - link [ref=f4e194] [cursor=pointer]:
+                            - /url: https://twitter.com/getmidas
+                        - link [ref=f4e197] [cursor=pointer]:
+                            - /url: https://www.facebook.com/getmidas
+                        - link [ref=f4e201] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/getmidas
+                        - link [ref=f4e205] [cursor=pointer]:
+                            - /url: https://www.youtube.com/channel/UCZjBYO5UudCmxz3C93A22uw/featured
+                        - link [ref=f4e208] [cursor=pointer]:
+                            - /url: https://open.spotify.com/show/5uOb6DZLsJxpHz9wowVKSo
+            - generic [ref=f4e212]:
+                - paragraph
+                - paragraph [ref=f4e213]: Yatırım hizmet ve faaliyetleri, Sermaye Piyasası Kurulu tarafından yetkilendirilen lisanslı Midas Menkul Değerler A.Ş tarafından sunulmaktadır.
+                - paragraph [ref=f4e214]: Kripto varlık piyasasına ilişkin hizmet ve faaliyetler Midas Kripto Varlık Alım Satım Platformu A.Ş. tarafından sunulmaktadır.
+                - paragraph [ref=f4e215]: Sunulan hizmetlere erişim Midas Finansal Teknolojiler A.Ş. tarafından sağlanan Midas ve Midas Kripto mobil uygulamaları üzerinden sağlanmaktadır.
+                - paragraph
+        - generic [ref=f4e219]:
+            - paragraph [ref=f4e222]: © 2026 Midas Finansal Teknolojiler A.Ş. Tüm hakları saklıdır.
+            - generic [ref=f4e224]:
+                - link "Kişisel Verilerin Korunması" [ref=f4e225] [cursor=pointer]:
+                    - /url: /kisisel-verilerin-korunmasi-kvkk/
+                - link "Gizlilik Politikası" [ref=f4e226] [cursor=pointer]:
+                    - /url: /gizlilik-politikasi/
+                - link "Yasal Duyurular" [ref=f4e227] [cursor=pointer]:
+                    - /url: /yasal-duyurular-ve-sozlesmeler/
+                - link "Çerez Ayarları" [ref=f4e228] [cursor=pointer]:
+                    - /url: "#"
+    - link [ref=f4e230] [cursor=pointer]:
+        - /url: javascript:;
